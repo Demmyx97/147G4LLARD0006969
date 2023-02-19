@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE 0001" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/One_piece.png" group-title="ONE PIECE", ONE PIECE 0001E47
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE 0001" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/One_piece.png" group-title="ONE PIECE", ONE PIECE 0001
 https://delivery167.akamai-cdn-content.com/hls2/01/01387/saa7ulkvbru4_n/seg-1-v1-a1.ts?t=1OMTWETCnkp6EXalQV_CfYFUB8BJDPKaYG2ryKotQDA&s=1676850373&e=10800&f=6939994&srv=sto065&client=190.239.201.178
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA OPCION 1" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 1
