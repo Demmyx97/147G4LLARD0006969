@@ -6,11 +6,12 @@ http://mastertv.pro:8080/tuser@27460/hola@1322/86965
 http://mastertv.pro:8080/tuser@27460/hola@1322/86966
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA TV OPCION 3" tvg-logo="http://mastertv.pro:8080/images/ca9c808f23b415b46d7fbe015d148111.png" group-title="PERU TV",AMERICA TV OPCION 3
 http://mastertv.pro:8080/tuser@27460/hola@1322/86967
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA Oxxx" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA Oxxx
+https://1157-vos.dtvott.com/DASH/stream_07/Segment-3780021482156756.m4a
+
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA OPCION 1" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 1
 http://mastertv.pro:8080/tuser@27460/hola@1322/86968
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA x" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 1
-https://1157-vos.dtvott.com/DASH/stream_07/1667285149262_init.m4i
-
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA OPCION 2" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 2
 http://mastertv.pro:8080/tuser@27460/hola@1322/86969
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA OPCION 3" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 3
