@@ -1,122 +1,122 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA TV OPCION 1" tvg-logo="http://mastertv.pro:8080/images/ca9c808f23b415b46d7fbe015d148111.png" group-title="PERU TV",AMERICA TV OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86965
+http://mastertv.pro:8080/tuser@27460/hola@1334/86965
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA TV OPCION 2" tvg-logo="http://mastertv.pro:8080/images/ca9c808f23b415b46d7fbe015d148111.png" group-title="PERU TV",AMERICA TV OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86966
+http://mastertv.pro:8080/tuser@27460/hola@1334/86966
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA TV OPCION 3" tvg-logo="http://mastertv.pro:8080/images/ca9c808f23b415b46d7fbe015d148111.png" group-title="PERU TV",AMERICA TV OPCION 3
-http://mastertv.pro:8080/tuser@27460/hola@1322/86967
+http://mastertv.pro:8080/tuser@27460/hola@1334/86967
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA OPCION 1" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86968
+http://mastertv.pro:8080/tuser@27460/hola@1334/86968
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA OPCION 2" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86969
+http://mastertv.pro:8080/tuser@27460/hola@1334/86969
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA OPCION 3" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 3
-http://mastertv.pro:8080/tuser@27460/hola@1322/86970
+http://mastertv.pro:8080/tuser@27460/hola@1334/86970
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV OPCION 1" tvg-logo="http://mastertv.pro:8080/images/ebb901dcb566446b4b2511802e4d1e9a.png" group-title="PERU TV",ATV OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86971
+http://mastertv.pro:8080/tuser@27460/hola@1334/86971
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV OPCION 2" tvg-logo="http://mastertv.pro:8080/images/ebb901dcb566446b4b2511802e4d1e9a.png" group-title="PERU TV",ATV OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86972
+http://mastertv.pro:8080/tuser@27460/hola@1334/86972
 #EXTINF:-1 tvg-id="" tvg-name="ATV + OPCION 1" tvg-logo="https://i.imgur.com/k76zIgp.png" group-title="PERU TV",ATV + OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86973
+http://mastertv.pro:8080/tuser@27460/hola@1334/86973
 #EXTINF:-1 tvg-id="" tvg-name="ATV + OPCION 2" tvg-logo="https://i.imgur.com/k76zIgp.png" group-title="PERU TV",ATV + OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86974
+http://mastertv.pro:8080/tuser@27460/hola@1334/86974
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA OPCION 1" tvg-logo="https://i.imgur.com/iujgTyy.png" group-title="PERU TV",PANAMERICANA OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86975
+http://mastertv.pro:8080/tuser@27460/hola@1334/86975
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA OPCION 2" tvg-logo="https://i.imgur.com/iujgTyy.png" group-title="PERU TV",PANAMERICANA OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86976
+http://mastertv.pro:8080/tuser@27460/hola@1334/86976
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA OPCION 3" tvg-logo="https://i.imgur.com/iujgTyy.png" group-title="PERU TV",PANAMERICANA OPCION 3
-http://mastertv.pro:8080/tuser@27460/hola@1322/86977
+http://mastertv.pro:8080/tuser@27460/hola@1334/86977
 #EXTINF:-1 tvg-id="" tvg-name="TV PERU OPCION 1" tvg-logo="http://mastertv.pro:8080/images/30ab4e97aa3c1b30b5fb205cb9257d38.png" group-title="PERU TV",TV PERU OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86978
+http://mastertv.pro:8080/tuser@27460/hola@1334/86978
 #EXTINF:-1 tvg-id="" tvg-name="TV PERU OPCION 2" tvg-logo="https://i.imgur.com/gfx4I1Y.png" group-title="PERU TV",TV PERU OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86979
+http://mastertv.pro:8080/tuser@27460/hola@1334/86979
 #EXTINF:-1 tvg-id="" tvg-name="CANAL N OPCION 1" tvg-logo="http://mastertv.pro:8080/images/ca89299ba89b4cac2d339804dec9de5b.png" group-title="PERU TV",CANAL N OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86980
+http://mastertv.pro:8080/tuser@27460/hola@1334/86980
 #EXTINF:-1 tvg-id="" tvg-name="CANAL N OPCION 2" tvg-logo="https://i.imgur.com/JURyl91.png" group-title="PERU TV",CANAL N OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86981
+http://mastertv.pro:8080/tuser@27460/hola@1334/86981
 #EXTINF:-1 tvg-id="" tvg-name="CANAL IPE OPCION 1" tvg-logo="https://i.imgur.com/BQchr99.png" group-title="PERU TV",CANAL IPE OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86982
+http://mastertv.pro:8080/tuser@27460/hola@1334/86982
 #EXTINF:-1 tvg-id="" tvg-name="CANAL IPE OPCION 2" tvg-logo="https://i.imgur.com/BQchr99.png" group-title="PERU TV",CANAL IPE OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86983
+http://mastertv.pro:8080/tuser@27460/hola@1334/86983
 #EXTINF:-1 tvg-id="PeruMagico.pe" tvg-name="PERU MAGICO OPCION 1" tvg-logo="http://mastertv.pro:8080/images/3c7461bc12e6b54d2f193d1e52812c09.png" group-title="PERU TV",PERU MAGICO OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86984
+http://mastertv.pro:8080/tuser@27460/hola@1334/86984
 #EXTINF:-1 tvg-id="PeruMagico.pe" tvg-name="PERU MAGICO OPCION 2" tvg-logo="https://i.imgur.com/Kkd9Z30.png" group-title="PERU TV",PERU MAGICO OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86985
+http://mastertv.pro:8080/tuser@27460/hola@1334/86985
 #EXTINF:-1 tvg-id="" tvg-name="RPP OPCION 1" tvg-logo="https://i.imgur.com/PsG22Tc.png" group-title="PERU TV",RPP OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86986
+http://mastertv.pro:8080/tuser@27460/hola@1334/86986
 #EXTINF:-1 tvg-id="" tvg-name="RPP OPCION 2" tvg-logo="http://mastertv.pro:8080/images/d0ecb053669b8f422975a2b017ed9625.png" group-title="PERU TV",RPP OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86987
+http://mastertv.pro:8080/tuser@27460/hola@1334/86987
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX TV OPCION 1" tvg-logo="http://mastertv.pro:8080/images/44ebe1dce4f064bed46467d6cf952f2f.png" group-title="PERU TV",WILLAX TV OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/86990
+http://mastertv.pro:8080/tuser@27460/hola@1334/86990
 #EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX TV OPCION 2" tvg-logo="http://mastertv.pro:8080/images/44ebe1dce4f064bed46467d6cf952f2f.png" group-title="PERU TV",WILLAX TV OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/86991
+http://mastertv.pro:8080/tuser@27460/hola@1334/86991
 #EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV" tvg-logo="http://mastertv.pro:8080/images/9e99217bfad308eb7139bfa15e6d9c88.png" group-title="PERU TV",CAPITAL TV
-http://mastertv.pro:8080/tuser@27460/hola@1322/86995
+http://mastertv.pro:8080/tuser@27460/hola@1334/86995
 #EXTINF:-1 tvg-id="" tvg-name="+ CUMBIA TV" tvg-logo="https://i.imgur.com/rgjrBZl.png" group-title="PERU TV",+ CUMBIA TV
-http://mastertv.pro:8080/tuser@27460/hola@1322/86996
+http://mastertv.pro:8080/tuser@27460/hola@1334/86996
 #EXTINF:-1 tvg-id="" tvg-name="MEMORIAS TV" tvg-logo="https://i.imgur.com/d9tlTtf.png" group-title="PERU TV",MEMORIAS TV
-http://mastertv.pro:8080/tuser@27460/hola@1322/87006
+http://mastertv.pro:8080/tuser@27460/hola@1334/87006
 #EXTINF:-1 tvg-id="" tvg-name="ANTARES TV" tvg-logo="https://i.imgur.com/JwyFGKn.png" group-title="PERU TV",ANTARES TV
-http://mastertv.pro:8080/tuser@27460/hola@1322/87014
+http://mastertv.pro:8080/tuser@27460/hola@1334/87014
 #EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="https://i.imgur.com/Q2ScV4y.png" group-title="PERU TV",BHTV
-http://mastertv.pro:8080/tuser@27460/hola@1322/87019
+http://mastertv.pro:8080/tuser@27460/hola@1334/87019
 #EXTINF:-1 tvg-id="" tvg-name="CENTRAL TV CHOSICA" tvg-logo="https://i.imgur.com/OjjxCv3.png" group-title="PERU TV",CENTRAL TV CHOSICA
-http://mastertv.pro:8080/tuser@27460/hola@1322/87021
+http://mastertv.pro:8080/tuser@27460/hola@1334/87021
 #EXTINF:-1 tvg-id="" tvg-name="CULTURA TV 24" tvg-logo="https://i.imgur.com/vTUMt4x.png" group-title="PERU TV",CULTURA TV 24
-http://mastertv.pro:8080/tuser@27460/hola@1322/87022
+http://mastertv.pro:8080/tuser@27460/hola@1334/87022
 #EXTINF:-1 tvg-id="" tvg-name="EXITOSA HD" tvg-logo="http://mastertv.pro:8080/images/fa6124fc17dea78a46d685276cbda515.png" group-title="PERU TV",EXITOSA HD
-http://mastertv.pro:8080/tuser@27460/hola@1322/87023
+http://mastertv.pro:8080/tuser@27460/hola@1334/87023
 #EXTINF:-1 tvg-id="" tvg-name="GENIOS TV" tvg-logo="https://i.imgur.com/Xhc3Jtu.png" group-title="PERU TV",GENIOS TV
-http://mastertv.pro:8080/tuser@27460/hola@1322/87024
+http://mastertv.pro:8080/tuser@27460/hola@1334/87024
 #EXTINF:-1 tvg-id="" tvg-name="JN19" tvg-logo="https://i.imgur.com/1mwZ6Pn.png" group-title="PERU TV",JN19
-http://mastertv.pro:8080/tuser@27460/hola@1322/87028
+http://mastertv.pro:8080/tuser@27460/hola@1334/87028
 #EXTINF:-1 tvg-id="" tvg-name="MONTERRICO TV" tvg-logo="http://mastertv.pro:8080/images/946aad70e901ea01bf0cbfcee85825b9.png" group-title="PERU TV",MONTERRICO TV
-http://mastertv.pro:8080/tuser@27460/hola@1322/87030
+http://mastertv.pro:8080/tuser@27460/hola@1334/87030
 #EXTINF:-1 tvg-id="" tvg-name="OVACION" tvg-logo="http://mastertv.pro:8080/images/e2682f335cba21250ef4d249cb2696a3.png" group-title="PERU TV",OVACION
-http://mastertv.pro:8080/tuser@27460/hola@1322/87032
+http://mastertv.pro:8080/tuser@27460/hola@1334/87032
 #EXTINF:-1 tvg-id="" tvg-name="TV COSMOS 15.1" tvg-logo="http://mastertv.pro:8080/images/8ea86d11c2b8da66961dfd6ff9bcfb5d.png" group-title="PERU TV",TV COSMOS 15.1
-http://mastertv.pro:8080/tuser@27460/hola@1322/87037
+http://mastertv.pro:8080/tuser@27460/hola@1334/87037
 #EXTINF:-1 tvg-id="" tvg-name="TV PERUANISIMA" tvg-logo="http://mastertv.pro:8080/images/ad5d51274eae2350c73c2b658326dcbb.png" group-title="PERU TV",TV PERUANISIMA
-http://mastertv.pro:8080/tuser@27460/hola@1322/87039
+http://mastertv.pro:8080/tuser@27460/hola@1334/87039
 #EXTINF:-1 tvg-id="" tvg-name="HUANUCO TV" tvg-logo="https://i.imgur.com/iGfOVbt.png" group-title="PERU TV",HUANUCO TV
-http://mastertv.pro:8080/tuser@27460/hola@1322/87041
+http://mastertv.pro:8080/tuser@27460/hola@1334/87041
 #EXTINF:-1 tvg-id="" tvg-name="VISION TV" tvg-logo="https://i.imgur.com/VKNDLmR.png" group-title="PERU TV",VISION TV
-http://mastertv.pro:8080/tuser@27460/hola@1322/105428
+http://mastertv.pro:8080/tuser@27460/hola@1334/105428
 #EXTINF:-1 tvg-id="" tvg-name="NATIVA" tvg-logo="" group-title="PERU TV",NATIVA
-http://mastertv.pro:8080/tuser@27460/hola@1322/154623
+http://mastertv.pro:8080/tuser@27460/hola@1334/154623
 
 
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 1" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/76789
+http://mastertv.pro:8080/tuser@27460/hola@1334/76789
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 2" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/76790
+http://mastertv.pro:8080/tuser@27460/hola@1334/76790
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 3" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 3
-http://mastertv.pro:8080/tuser@27460/hola@1322/76791
+http://mastertv.pro:8080/tuser@27460/hola@1334/76791
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 4" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 4
-http://mastertv.pro:8080/tuser@27460/hola@1322/76816
+http://mastertv.pro:8080/tuser@27460/hola@1334/76816
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 5" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 5
-http://mastertv.pro:8080/tuser@27460/hola@1322/76817
+http://mastertv.pro:8080/tuser@27460/hola@1334/76817
 
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS OPCION 1" tvg-logo="http://mastertv.pro:8080/images/e584dfa99e805839b3e3fd1e09b4fc41.png" group-title="DEPORTES PERU",MOVISTAR PLUS OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/87044
+http://mastertv.pro:8080/tuser@27460/hola@1334/87044
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS OPCION 2" tvg-logo="https://i.imgur.com/MrJiQFR.png" group-title="DEPORTES PERU",MOVISTAR PLUS OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/87045
+http://mastertv.pro:8080/tuser@27460/hola@1334/87045
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PERU" tvg-logo="http://mastertv.pro:8080/images/2b782bef722f473c6ee2e5f7d0df5c5f.png" group-title="DEPORTES PERU",ESPN PERU
-http://mastertv.pro:8080/tuser@27460/hola@1322/87046
+http://mastertv.pro:8080/tuser@27460/hola@1334/87046
 #EXTINF:-1 tvg-id="" tvg-name="ESPN2 PERU" tvg-logo="http://mastertv.pro:8080/images/b5c360145f54e5f3da03169753c4a828.png" group-title="DEPORTES PERU",ESPN2 PERU
-http://mastertv.pro:8080/tuser@27460/hola@1322/181133
+http://mastertv.pro:8080/tuser@27460/hola@1334/181133
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS - PERU" tvg-logo="http://mastertv.pro:8080/images/ffe4ae8bcde1f50a8efe145318527ba9.png" group-title="DEPORTES PERU",DIRECTV SPORTS - PERU
-http://mastertv.pro:8080/tuser@27460/hola@1322/176153
+http://mastertv.pro:8080/tuser@27460/hola@1334/176153
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PERU" tvg-logo="http://mastertv.pro:8080/images/88f2fdcfc09ac4a0fadb2a35b6e05b8e.png" group-title="DEPORTES PERU",DIRECTV SPORTS PERU
-http://mastertv.pro:8080/tuser@27460/hola@1322/87047
+http://mastertv.pro:8080/tuser@27460/hola@1334/87047
 #EXTINF:-1 tvg-id="610dtv.pe" tvg-name="DIRECTV SPORTS PERU" tvg-logo="http://mastertv.pro:8080/images/88f2fdcfc09ac4a0fadb2a35b6e05b8e.png" group-title="DEPORTES PERU",DIRECTV SPORTS PERU
-http://mastertv.pro:8080/tuser@27460/hola@1322/92593
+http://mastertv.pro:8080/tuser@27460/hola@1334/92593
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES OPCION 1" tvg-logo="http://mastertv.pro:8080/images/552074a08141cf7200ffb1eeacae48f9.png" group-title="DEPORTES PERU",MOVISTAR DEPORTES OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/76832
+http://mastertv.pro:8080/tuser@27460/hola@1334/76832
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES OPCION 2" tvg-logo="http://mastertv.pro:8080/images/552074a08141cf7200ffb1eeacae48f9.png" group-title="DEPORTES PERU",MOVISTAR DEPORTES OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/76834
+http://mastertv.pro:8080/tuser@27460/hola@1334/76834
 
 #EXTINF:-1 tvg-id="" tvg-name="BEST CABLE SPORTS OPCION 1" tvg-logo="http://mastertv.pro:8080/images/1888ed06e8258b0d11876c61bf379a18.png" group-title="DEPORTES PERU",BEST CABLE SPORTS OPCION 1
-http://mastertv.pro:8080/tuser@27460/hola@1322/168056
+http://mastertv.pro:8080/tuser@27460/hola@1334/168056
 #EXTINF:-1 tvg-id="" tvg-name="BEST CABLE SPORT OPCION 2" tvg-logo="http://mastertv.pro:8080/images/1888ed06e8258b0d11876c61bf379a18.png" group-title="DEPORTES PERU",BEST CABLE SPORT OPCION 2
-http://mastertv.pro:8080/tuser@27460/hola@1322/168057
+http://mastertv.pro:8080/tuser@27460/hola@1334/168057
