@@ -87,7 +87,7 @@ http://mastertv.pro:8080/tuser@27460/hola@1334/154623
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HD GOL PERU" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU", HD GOL PERU
-https://b41838-p18-hc2-afvysuzz-t10efd4.2.cdn.telefonica.com/_41838/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUyTnpZNU5qZ3lNRE09In0.eyJpYXQiOjE2Nzc0NjE1MTcsInVpZCI6IjZoeVl1OF9vbFg3ZUdLV2xremxRbzhZXy1SXzd5emE5dHhOYmJCU3MzQjkxZmxza3UtdTliZjVPLUd0YmtUZDcifQ.Sb24FlnnsdJIrQdJE9esPJ6WDgksOX-bXB_SPCw66kg4wauyoU_Uj5D1nfT7itfbRZH-yIHwDL125SgGzkmhGw_-_/DASH/GolPeruHD.mpd
+hlsdl -b -c -u "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0" -h "Referer:https://tiofutbol.com/goltv2.php" -o "manifest.ts" "https://1134-vos.dtvott.com/DASH/manifest.mpd"Uj5D1nfT7itfbRZH-yIHwDL125SgGzkmhGw_-_/DASH/GolPeruHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="HD GOL PERU2" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU", HD GOL PERU2
 https://b41838-p18-hc2-afvysuzz-t10efd4.2.cdn.telefonica.com/_41838/_-_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlkyUnVPakUyTnpZNU5qZ3lNRE09In0.eyJpYXQiOjE2Nzc0NjE1MTcsInVpZCI6IjZoeVl1OF9vbFg3ZUdLV2xremxRbzhZXy1SXzd5emE5dHhOYmJCU3MzQjkxZmxza3UtdTliZjVPLUd0YmtUZDcifQ.Sb24FlnnsdJIrQdJE9esPJ6WDgksOX-bXB_SPCw66kg4wauyoU_Uj5D1nfT7itfbRZH-yIHwDL125SgGzkmhGw_-_/DASH/GolPeruHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="HD GOL PERU3" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU", HD GOL PERU3
