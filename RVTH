@@ -1,0 +1,425 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="I264.113656.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 1" tvg-logo="http://mastertv.pro:8080/images/318c04c42d168f9cf4d4b10d44c188f4.png" group-title="CULTURA",ANIMAL PLANET OPCION 1
+http://mastertv.pro:8080/tuser@27460/hola@1334/6105
+#EXTINF:-1 tvg-id="I264.113656.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 2" tvg-logo="http://mastertv.pro:8080/images/318c04c42d168f9cf4d4b10d44c188f4.png" group-title="CULTURA",ANIMAL PLANET OPCION 2
+http://mastertv.pro:8080/tuser@27460/hola@1334/6106
+#EXTINF:-1 tvg-id="I264.113656.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 3" tvg-logo="http://mastertv.pro:8080/images/318c04c42d168f9cf4d4b10d44c188f4.png" group-title="CULTURA",ANIMAL PLANET OPCION 3
+http://mastertv.pro:8080/tuser@27460/hola@1334/6107
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID OPCION 1" tvg-logo="http://mastertv.pro:8080/images/48c98b1b4ef5a6f2fa0ef9176acc6807.png" group-title="CULTURA",DISCOVERY ID OPCION 1
+http://mastertv.pro:8080/tuser@27460/hola@1334/6125
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID OPCION 2" tvg-logo="http://mastertv.pro:8080/images/48c98b1b4ef5a6f2fa0ef9176acc6807.png" group-title="CULTURA",DISCOVERY ID OPCION 2
+http://mastertv.pro:8080/tuser@27460/hola@1334/6126
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE OPCION 1" tvg-logo="http://mastertv.pro:8080/images/8110ddd5807b05bc1de7164aab72f193.png" group-title="ARGENTINA TV",TELEFE OPCION 1
+http://mastertv.pro:8080/tuser@27460/hola@1334/96871
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE OPCION 2" tvg-logo="http://mastertv.pro:8080/images/8110ddd5807b05bc1de7164aab72f193.png" group-title="ARGENTINA TV",TELEFE OPCION 2
+http://mastertv.pro:8080/tuser@27460/hola@1334/96872
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE OPCION 3" tvg-logo="https://i.imgur.com/HL6CceN.png" group-title="ARGENTINA TV",TELEFE OPCION 3
+http://mastertv.pro:8080/tuser@27460/hola@1334/96873
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="https://i.imgur.com/hjUWbvJ.png" group-title="DEPORTES BRASIL",HBO MAX 1
+http://mastertv.pro:8080/tuser@27460/hola@1334/103152
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="https://i.imgur.com/hjUWbvJ.png" group-title="DEPORTES BRASIL",HBO MAX 2
+http://mastertv.pro:8080/tuser@27460/hola@1334/103153
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="https://i.imgur.com/hjUWbvJ.png" group-title="DEPORTES BRASIL",HBO MAX 3
+http://mastertv.pro:8080/tuser@27460/hola@1334/103154
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4" tvg-logo="https://i.imgur.com/hjUWbvJ.png" group-title="DEPORTES BRASIL",HBO MAX 4
+http://mastertv.pro:8080/tuser@27460/hola@1334/103155
+
+#EXTINF:-1 tvg-id="I243.90682.schedulesdirect.org" tvg-name="LIFETIME HD" tvg-logo="http://mastertv.pro:8080/images/226c6f08a0d50e0c14e24edad509ecf4.png" group-title="ENTRETENIMIENTO & NOVELAS",LIFETIME HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6144
+
+EXTINF:-1 tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E HD" tvg-logo="http://mastertv.pro:8080/images/4bea2dcaa31b09379cef51794b16a3aa.png" group-title="ENTRETENIMIENTO & NOVELAS",A&E HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6195
+#EXTINF:-1 tvg-id="I143.1798.tvguide.co.uk" tvg-name="KANAL D DRAMA (NOVELAS TURCAS) HD" tvg-logo="http://mastertv.pro:8080/images/c3786818c1af9d1538559e0eba0d5889.png" group-title="ENTRETENIMIENTO & NOVELAS",KANAL D DRAMA (NOVELAS TURCAS) HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6196
+#EXTINF:-1 tvg-id="I35.90898.schedulesdirect.org" tvg-name="A3 SERIES FULL HD" tvg-logo="http://mastertv.pro:8080/images/60e293a900f585b91a5140df6f99c2a9.png" group-title="ENTRETENIMIENTO & NOVELAS",A3 SERIES FULL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6197
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="AZ CINEMA FULL HD" tvg-logo="http://mastertv.pro:8080/images/a9358a5b9db95e45d9446caa285043a6.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CINEMA FULL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6198
+#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="AZ CLIC FULL HD" tvg-logo="http://mastertv.pro:8080/images/0090986385b33dbed999985895fb1a4c.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CLIC FULL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6199
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="AZ CORAZON HD" tvg-logo="http://mastertv.pro:8080/images/af9ccda079fb4645c91fb1dd3d415091.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CORAZON HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6202
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="AZ CORAZON FULL HD" tvg-logo="http://mastertv.pro:8080/images/af9ccda079fb4645c91fb1dd3d415091.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CORAZON FULL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6204
+#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="AZ MUNDO HD" tvg-logo="https://i.imgur.com/u7ZTCdj.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ MUNDO HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6207
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="COMEDY CENTRAL FULL HD" tvg-logo="http://mastertv.pro:8080/images/ab30f5b11b89babc07d1392ba1c5f528.png" group-title="ENTRETENIMIENTO & NOVELAS",COMEDY CENTRAL FULL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6208
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA FULL HD" tvg-logo="https://i.imgur.com/IJVN4tH.png" group-title="ENTRETENIMIENTO & NOVELAS",DISTRITO COMEDIA FULL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6211
+#EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! FULL HD" tvg-logo="http://mastertv.pro:8080/images/db09d02ca36607c74d65779160e9f221.png" group-title="ENTRETENIMIENTO & NOVELAS",E! FULL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6214
+#EXTINF:-1 tvg-id="222e!.cl" tvg-name="RCN XTRA" tvg-logo="https://i.imgur.com/qCTTA9p.png" group-title="ENTRETENIMIENTO & NOVELAS",RCN XTRA
+http://mastertv.pro:8080/tuser@27460/hola@1334/6215
+#EXTINF:-1 tvg-id="I331.61514.schedulesdirect.org" tvg-name="GLITZ SD" tvg-logo="http://mastertv.pro:8080/images/792b0bfe14efc1337ca86433def68de2.png" group-title="ENTRETENIMIENTO & NOVELAS",GLITZ SD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6216
+#EXTINF:-1 tvg-id="230dtv.cl" tvg-name="MAS CHIC FULL HD" tvg-logo="http://mastertv.pro:8080/images/cc332aa77caeaaa9ebb4194ecae94015.png" group-title="ENTRETENIMIENTO & NOVELAS",MAS CHIC FULL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6217
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="PASIONES HD" tvg-logo="http://mastertv.pro:8080/images/6e0887f01c147dd1f7714a2e2250f719.png" group-title="ENTRETENIMIENTO & NOVELAS",PASIONES HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6218
+#EXTINF:-1 tvg-id="pasiones.co" tvg-name="RCN MAS +" tvg-logo="http://mastertv.pro:8080/images/0a8be5fbbd4e3f0e3c319035ae312860.png" group-title="ENTRETENIMIENTO & NOVELAS",RCN MAS +
+http://mastertv.pro:8080/tuser@27460/hola@1334/6219
+#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-name="TELEMUNDO NEW YORK HD" tvg-logo="http://mastertv.pro:8080/images/f880288a28405f61cd8e85fc645c071c.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO NEW YORK HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6220
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO NEW ORLEANS HD" tvg-logo="http://mastertv.pro:8080/images/f880288a28405f61cd8e85fc645c071c.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO NEW ORLEANS HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6221
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO CHICAGO HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO CHICAGO HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6222
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TELEMUNDO INTERNACIONAL HD" tvg-logo="http://mastertv.pro:8080/images/f880288a28405f61cd8e85fc645c071c.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO INTERNACIONAL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6223
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO FRESNO HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO FRESNO HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6224
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TELEMUNDO INTERNACIONAL HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO INTERNACIONAL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6225
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LAS VEGAS HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO LAS VEGAS HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6226
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LOS ANGELES HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO LOS ANGELES HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6227
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO MIAMI HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO MIAMI HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6228
+#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-name="TELEMUNDO WEST HD" tvg-logo="http://mastertv.pro:8080/images/f880288a28405f61cd8e85fc645c071c.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO WEST HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6229
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO NEW YORK HD" tvg-logo="http://mastertv.pro:8080/images/f880288a28405f61cd8e85fc645c071c.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO NEW YORK HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6230
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PHILADELPHIA HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO PHILADELPHIA HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6231
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PHOENIX ARIZONA HD" tvg-logo="http://mastertv.pro:8080/images/f880288a28405f61cd8e85fc645c071c.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO PHOENIX ARIZONA HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6232
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SAN DIEGO HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO SAN DIEGO HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6233
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SAN FRANCISCO HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO SAN FRANCISCO HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6234
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO WASHINGTON HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO WASHINGTON HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6236
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="TLNOVELAS FULL HD" tvg-logo="http://mastertv.pro:8080/images/368defa68869f2320dac385107f3225c.png" group-title="ENTRETENIMIENTO & NOVELAS",TLNOVELAS FULL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6237
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="TLNOVELAS HD" tvg-logo="http://mastertv.pro:8080/images/368defa68869f2320dac385107f3225c.png" group-title="ENTRETENIMIENTO & NOVELAS",TLNOVELAS HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6238
+#EXTINF:-1 tvg-id="220dtv.cl" tvg-name="TRU TV FULL HD" tvg-logo="http://mastertv.pro:8080/images/f689e27026c3d47ee6af25db4c49c2ab.png" group-title="ENTRETENIMIENTO & NOVELAS",TRU TV FULL HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6239
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN NOVELAS" tvg-logo="http://mastertv.pro:8080/images/1e2de8f8f25daa6288a263ed1bf0bd9d.png" group-title="ENTRETENIMIENTO & NOVELAS",RCN NOVELAS
+http://mastertv.pro:8080/tuser@27460/hola@1334/6240
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION TELENOVELAS HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6241
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NEW YORK HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION NEW YORK HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6242
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION MIAMI HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6243
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CHICAGO HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION CHICAGO HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6244
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HOUSTON HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION HOUSTON HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6245
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION ATLANTA HD" tvg-logo="http://mastertv.pro:8080/images/e633b2806b074fc6497f3b16d0a2d963.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION ATLANTA HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6246
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CLEVELAND HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION CLEVELAND HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6247
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION FRESNO HD" tvg-logo="http://mastertv.pro:8080/images/e633b2806b074fc6497f3b16d0a2d963.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION FRESNO HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6248
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION GEORGIA HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION GEORGIA HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6249
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION PHOENIX HD" tvg-logo="http://mastertv.pro:8080/images/e633b2806b074fc6497f3b16d0a2d963.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION PHOENIX HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6250
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION WEST HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION WEST HD
+http://mastertv.pro:8080/tuser@27460/hola@1334/6251
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION SALT LAKE CITY" tvg-logo="http://mastertv.pro:8080/images/e633b2806b074fc6497f3b16d0a2d963.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION SALT LAKE CITY
+http://mastertv.pro:8080/tuser@27460/hola@1334/6252
+
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E01" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E01
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E02" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E02
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E03" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E03
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E04" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E04
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E05" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E05
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E06" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E06
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E07" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E07
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E08" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E08
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E09" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E09
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E10" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E10
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E11" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E11
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E12" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E12
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E13" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E13
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E14" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E14
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E15" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E15
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E16" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E16
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E17" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E17
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E18" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E18
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E19" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E19
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E20" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E20
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E21" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E21
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E22" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E22
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E23" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E23
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E24" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E24
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E25" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E25
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E26" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E26
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E27" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E27
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E28" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E28
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E29" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E29
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E30" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E30
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E31" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E31
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E32" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E32
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E33" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E33
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E34" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E34
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E35" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E35
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E36" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E36
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E37" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E37
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E38" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E38
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E39" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E39
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E40" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E40
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E41" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E41
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E42" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E42
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E43" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E43
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E44" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E44
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E45" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E45
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E46" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E46
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E47" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E47
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E48" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E48
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E49" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E49
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E50" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E50
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E51" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E51
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E52" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E52
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E53" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E53
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E54" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E54
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E55" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E55
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E56" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E56
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E57" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E57
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E58" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E58
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E59" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E59
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E60" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E60
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E61" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E61
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E62" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E62
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E63" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E63
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E64" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E64
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E65" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E65
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E66" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E66
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E67" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E67
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E68" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E68
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E69" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E69
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E70" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E70
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E71" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E71
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E72" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E72
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E73" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E73
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E74" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E74
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E75" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E75
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E76" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E76
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E77" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E77
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E78" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E78
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E79" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E79
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E80" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E80
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E81" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E81
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E82" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E82
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E83" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E83
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E84" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E84
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E85" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E85
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E86" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E86
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E87" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E87
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E88" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E88
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E89" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E89
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E90" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E90
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E91" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E91
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E92" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E92
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E93" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E93
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E94" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E94
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E95" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E95
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E96" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E96
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E97" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E97
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E98" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E98
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E99" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E99
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E100" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E100
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E101" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E101
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E102" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E102
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E103" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E103
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E104" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E104
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E105" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E105
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E106" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E106
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E107" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E107
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E108" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E108
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E109" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E109
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E110" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E110
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E111" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E111
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E112" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E112
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E113" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E113
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E114" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E114
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E115" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E115
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E116" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E116
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E117" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E117
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E118" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E118
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E119" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E119
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E120" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E120
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E121" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E121
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E122" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E122
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E123" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E123
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E124" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E124
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E125" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E125
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E126" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E126
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E127" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E127
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E128" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E128
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E129" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E129
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E130" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E130
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E131" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E131
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E132" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E132
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E133" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E133
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E134" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E134
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E135" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E135
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E136" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E136
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E137" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E137
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E138" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E138
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E139" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E139
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E140" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E140
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E141" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E141
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E142" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E142
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E143" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E143
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E144" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E144
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E145" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E145
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E146" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E146
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La hija del Mariachi S01 E147" tvg-logo="http://mastertv.pro:8080/images/68b60c983f3ad86a99685930fcaae07d.jpg" group-title="NOVELAS",La hija del Mariachi S01 E147
+http://mastertv.pro:8080/series/tuser@27460/hola@1334/154968.mp4
+
