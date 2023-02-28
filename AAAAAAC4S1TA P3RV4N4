@@ -90,6 +90,10 @@ http://mastertv.pro:8080/tuser@27460/hola@1334/154623
 https://1134-vos.dtvott.com/DASH/manifest.mpd"Uj5D1nfT7itfbRZH-yIHwDL125SgGzkmhGw_-_/DASH/GolPeruHD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="HD GOL PERU2" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU", HD GG
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CukFoNkSO4lTXw3VsmDqgZVMkBzkKOTVc84RFo2a-EhJSbejUqPkNlY9NWqvEiQG8MLQFhhxNgIqHqaKd6jl7Aprdi5xp7-qe_7jWQU_9SPKp9914E1oSBPoiU8PaO2OtlL7hbhFdGIOfHVioaV_UT9SaYMhMqFltKGP0Ol1b0WS7myAKRh9UWEIAcOnnxStAPPQRH4srvRRTV7VLNSkJcv-GFMY0WoaQ8hlir1dTu20Xym4pHCexTsRjDW1IWosVjl7rYFGK0rvET4LtMom3LLqr5XkMxkjVmg4YrMwS2jDb3uROmrl2LIMoKCggwN8JpP7Ia69hvDE_QDtptQK3TCAUJRj7HrLBZeyflD6NNtm851-PGl9n29Xxs0DD87Lp9An3VaII4G5QWag0NNZiMsr5uZSuXWWmFlgu26-fwinvsadyhoNQ4-fciitbqVYtUgWYVSb6RHKojTDFne7F5XTXVDKJfQSR8KQcUNeoWFaYklzjiQWGqhlbGIj49Fln1epeMTc7g7D1Clh40FzwYtI46RljjNcLnrI4T1vrJqqpxroBE47X3VyosnztXzhvKtzmVXxMJnel8yybq2SxZLKN1t9EUAbBOZ1fARrMAkg0DiYEmfhoAixKS6P1XJX7ccbevrjKevS60T8Umy79LOK--Wu662WDbiLiqG0SXBduf6FuDnJtHqwAZGHOhIXNg42oeW1BF1cyLREPcjjqB8jpUdYH6S9d_U2NYKDxzi6NSIpjeDQqg7_IVdNTQlrkljBXN3MN6s5kfjwccX5-PnMPuAoOiiSmfriIRbORBKIF_swt5QwSMIcD_LxUZPfre8MfF-UrvZcTTcQFkm1xVbCrI2xYWVb_V9lbjfFcCmEDwNDIVA-rmL_oDsaJ4nqm1v5_ZaLfAO_TJA80l2aqy0jjlZv4b_pjzagDjTCCCJaIm2fxlZKj2UO4WBMKzS44tzXByOkQvzFGb1YDLTO3d77IFD2xF81cF8O4RoMGJ0iyRFjnHJr8mSSIAEqCWV1LXdlc3QtMjD9BQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD GOL PERU2" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU", HD12 GG
+http://disfruta.club:8000/live/veoplay/veoplaypro/4367.ts
+#EXTINF:-1 tvg-id="" tvg-name="HD GOL PERU2" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU", HDDD
+http://200.54.19.131:8500/play/a0k9/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 1" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 1
