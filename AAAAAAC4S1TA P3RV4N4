@@ -86,14 +86,6 @@ http://mastertv.pro:8080/tuser@27460/hola@1334/105428
 http://mastertv.pro:8080/tuser@27460/hola@1334/154623
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HD GOL PERU" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU", HD GOL PERU
-https://1134-vos.dtvott.com/DASH/manifest.mpd"Uj5D1nfT7itfbRZH-yIHwDL125SgGzkmhGw_-_/DASH/GolPeruHD.mpd
-#EXTINF:-1 tvg-id="" tvg-name="HD GOL PERU2" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU", HD GG
-http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/8329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HD GOL PERU2" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU", DASDA
-hhttp://51.15.144.38:8666/play/a02m/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 1" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 1
 http://mastertv.pro:8080/tuser@27460/hola@1334/76789
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 2" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 2
