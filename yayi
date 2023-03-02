@@ -1,1 +1,12 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 1" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/76789
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 2" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/76790
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 3" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/76791
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 4" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 4
+http://mastertv.pro:8080/tuser@27461/hola@6655/76816
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 5" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 5
+http://mastertv.pro:8080/tuser@27461/hola@6655/76817
