@@ -1,35 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="I264.113656.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 1" tvg-logo="http://mastertv.pro:8080/images/318c04c42d168f9cf4d4b10d44c188f4.png" group-title="CULTURA",ANIMAL PLANET OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@665/6105
-#EXTINF:-1 tvg-id="I264.113656.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 2" tvg-logo="http://mastertv.pro:8080/images/318c04c42d168f9cf4d4b10d44c188f4.png" group-title="CULTURA",ANIMAL PLANET OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@665/6106
-#EXTINF:-1 tvg-id="I264.113656.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 3" tvg-logo="http://mastertv.pro:8080/images/318c04c42d168f9cf4d4b10d44c188f4.png" group-title="CULTURA",ANIMAL PLANET OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@665/6107
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 1" tvg-logo="http://mastertv.pro:8080/images/a3e647a8dffcd603d8ca34f7fcaa9803.png" group-title="CULTURA",ANIMAL PLANET OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/6105
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 2" tvg-logo="https://i.imgur.com/zPPGbtn.png" group-title="CULTURA",ANIMAL PLANET OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/6106
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 3" tvg-logo="https://i.imgur.com/zPPGbtn.png" group-title="CULTURA",ANIMAL PLANET OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/6107
 
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID OPCION 1" tvg-logo="http://mastertv.pro:8080/images/48c98b1b4ef5a6f2fa0ef9176acc6807.png" group-title="CULTURA",DISCOVERY ID OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@665/6125
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID OPCION 2" tvg-logo="http://mastertv.pro:8080/images/48c98b1b4ef5a6f2fa0ef9176acc6807.png" group-title="CULTURA",DISCOVERY ID OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@665/6126
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID OPCION 1" tvg-logo="http://mastertv.pro:8080/images/101f0fc405a27f6883302438f7160c74.png" group-title="CULTURA",DISCOVERY ID OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/6125
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID OPCION 2" tvg-logo="https://i.imgur.com/YGXS5Tc.png" group-title="CULTURA",DISCOVERY ID OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/6126
+
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="HISTORY 2 OPCION 1" tvg-logo="http://mastertv.pro:8080/images/2e0706d5b344811cb4f2b475f0a0d147.png" group-title="CULTURA",HISTORY 2 OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/6138
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="HISTORY 2 OPCION 2" tvg-logo="https://i.imgur.com/86zKlg8.png" group-title="CULTURA",HISTORY 2 OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/6139
+#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="HISTORY 2 OPCION 3" tvg-logo="http://mastertv.pro:8080/images/2e0706d5b344811cb4f2b475f0a0d147.png" group-title="CULTURA",HISTORY 2 OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/6140
+#EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="HISTORY OPCION 1" tvg-logo="http://mastertv.pro:8080/images/3671cfc83a6fbf1a87f99d007b190894.png" group-title="CULTURA",HISTORY OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/6141
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HISTORY OPCION 2" tvg-logo="http://mastertv.pro:8080/images/3671cfc83a6fbf1a87f99d007b190894.png" group-title="CULTURA",HISTORY OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/6142
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE OPCION 1" tvg-logo="http://mastertv.pro:8080/images/8110ddd5807b05bc1de7164aab72f193.png" group-title="ARGENTINA TV",TELEFE OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@665/96871
+http://mastertv.pro:8080/tuser@27461/hola@6655/96871
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE OPCION 2" tvg-logo="http://mastertv.pro:8080/images/8110ddd5807b05bc1de7164aab72f193.png" group-title="ARGENTINA TV",TELEFE OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@665/96872
+http://mastertv.pro:8080/tuser@27461/hola@6655/96872
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE OPCION 3" tvg-logo="https://i.imgur.com/HL6CceN.png" group-title="ARGENTINA TV",TELEFE OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@665/96873
+http://mastertv.pro:8080/tuser@27461/hola@6655/96873
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="EL NUEVE OPCION 1" tvg-logo="http://mastertv.pro:8080/images/dfe4b24dfdbd47b8a4e9a7c7d57169eb.png" group-title="ARGENTINA TV",EL NUEVE OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/96874
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="EL NUEVE OPCION 2" tvg-logo="https://i.imgur.com/YUer3i2.png" group-title="ARGENTINA TV",EL NUEVE OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/96875
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="EL NUEVE OPCION 3" tvg-logo="http://mastertv.pro:8080/images/dfe4b24dfdbd47b8a4e9a7c7d57169eb.png" group-title="ARGENTINA TV",EL NUEVE OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/96876
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="CANAL TRECE OPCION 1" tvg-logo="http://mastertv.pro:8080/images/51d092653815afb7af79774e18ad2da8.png" group-title="ARGENTINA TV",CANAL TRECE OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/96877
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="CANAL TRECE OPCION 2" tvg-logo="https://i.imgur.com/SZoDdoq.png" group-title="ARGENTINA TV",CANAL TRECE OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/96878
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="CANAL TRECE OPCION 3" tvg-logo="https://i.imgur.com/SZoDdoq.png" group-title="ARGENTINA TV",CANAL TRECE OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/96879
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1" tvg-logo="https://i.imgur.com/hjUWbvJ.png" group-title="DEPORTES BRASIL",HBO MAX 1
-http://mastertv.pro:8080/tuser@27461/hola@665/103152
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2" tvg-logo="https://i.imgur.com/hjUWbvJ.png" group-title="DEPORTES BRASIL",HBO MAX 2
-http://mastertv.pro:8080/tuser@27461/hola@665/103153
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3" tvg-logo="https://i.imgur.com/hjUWbvJ.png" group-title="DEPORTES BRASIL",HBO MAX 3
-http://mastertv.pro:8080/tuser@27461/hola@665/103154
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4" tvg-logo="https://i.imgur.com/hjUWbvJ.png" group-title="DEPORTES BRASIL",HBO MAX 4
-http://mastertv.pro:8080/tuser@27461/hola@665/103155
 
-#EXTINF:-1 tvg-id="I243.90682.schedulesdirect.org" tvg-name="LIFETIME HD" tvg-logo="http://mastertv.pro:8080/images/226c6f08a0d50e0c14e24edad509ecf4.png" group-title="ENTRETENIMIENTO & NOVELAS",LIFETIME HD
-http://mastertv.pro:8080/tuser@27461/hola@665/6144
 
 EXTINF:-1 tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E HD" tvg-logo="http://mastertv.pro:8080/images/4bea2dcaa31b09379cef51794b16a3aa.png" group-title="ENTRETENIMIENTO & NOVELAS",A&E HD
 http://mastertv.pro:8080/tuser@27461/hola@665/6195
