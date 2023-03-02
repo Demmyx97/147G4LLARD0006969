@@ -1,0 +1,85 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-name="TNT SPORTS 2 OPCION 3" tvg-logo="https://i.imgur.com/drxCtPr.png" group-title="DEPORTES CHILE",TNT SPORTS 2 OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/49319
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT SPORTS 3 OPCION 1" tvg-logo="https://i.imgur.com/hGoHxUV.png" group-title="DEPORTES CHILE",TNT SPORTS 3 OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/49320
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT SPORTS 3 OPCION 2" tvg-logo="https://i.imgur.com/hGoHxUV.png" group-title="DEPORTES CHILE",TNT SPORTS 3 OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/49321
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT SPORTS 3 OPCION 3" tvg-logo="https://i.imgur.com/hGoHxUV.png" group-title="DEPORTES CHILE",TNT SPORTS 3 OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/49322
+#EXTINF:-1 tvg-id="610dtv.cl" tvg-name="DIRECTV SPORTS + CHILE HD" tvg-logo="https://i.imgur.com/mSF4xA1.png" group-title="DEPORTES CHILE",DIRECTV SPORTS + CHILE HD
+http://mastertv.pro:8080/tuser@27461/hola@6655/49323
+#EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN CHILE HD" tvg-logo="http://mastertv.pro:8080/images/2b782bef722f473c6ee2e5f7d0df5c5f.png" group-title="DEPORTES CHILE",ESPN CHILE HD
+http://mastertv.pro:8080/tuser@27461/hola@6655/49324
+#EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 CHILE HD" tvg-logo="https://i.imgur.com/CvSq8jn.png" group-title="DEPORTES CHILE",ESPN 2 CHILE HD
+http://mastertv.pro:8080/tuser@27461/hola@6655/49325
+#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="TELETRAK HD" tvg-logo="https://i.imgur.com/LGSpYeS.png" group-title="DEPORTES CHILE",TELETRAK HD
+http://mastertv.pro:8080/tuser@27461/hola@6655/49328
+#EXTINF:-1 tvg-id="FoxSportsChile.cl" tvg-name="FOX SPORTS CHILE" tvg-logo="https://i.imgur.com/yxdZh9n.png" group-title="DEPORTES CHILE",FOX SPORTS CHILE
+http://mastertv.pro:8080/tuser@27461/hola@6655/77196
+#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="FOX SPORTS 2" tvg-logo="https://i.imgur.com/ca2UGyX.png" group-title="DEPORTES CHILE",FOX SPORTS 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/85704
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS OPCION 1" tvg-logo="https://i.imgur.com/bfX4ODu.png" group-title="DEPORTES ARGENTINA",TYC SPORTS OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/93852
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS OPCION 2" tvg-logo="https://i.imgur.com/bfX4ODu.png" group-title="DEPORTES ARGENTINA",TYC SPORTS OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/93853
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TYC SPORTS OPCION 3" tvg-logo="https://i.imgur.com/bfX4ODu.png" group-title="DEPORTES ARGENTINA",TYC SPORTS OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/93854
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT SPORTS OPCION 1" tvg-logo="http://mastertv.pro:8080/images/eac149ce36248d5a958b209f5d31d719.png" group-title="DEPORTES ARGENTINA",TNT SPORTS OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/93855
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT SPORTS OPCION 2" tvg-logo="http://mastertv.pro:8080/images/eac149ce36248d5a958b209f5d31d719.png" group-title="DEPORTES ARGENTINA",TNT SPORTS OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/93856
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT SPORTS OPCION 3" tvg-logo="http://mastertv.pro:8080/images/eac149ce36248d5a958b209f5d31d719.png" group-title="DEPORTES ARGENTINA",TNT SPORTS OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/93857
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV OPCION 1" tvg-logo="http://mastertv.pro:8080/images/3696b04af9c89170ea337ff380e96144.png" group-title="DEPORTES ARGENTINA",DEPORTV OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/96927
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DEPORTV OPCION 2" tvg-logo="https://i.imgur.com/tvvH9YH.png" group-title="DEPORTES ARGENTINA",DEPORTV OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/96928
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="EL GARAGE TV OPCION 1" tvg-logo="http://mastertv.pro:8080/images/8ac73b3d0036dac562e85155b10b6451.png" group-title="DEPORTES ARGENTINA",EL GARAGE TV OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/96929
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="EL GARAGE TV OPCION 2" tvg-logo="http://mastertv.pro:8080/images/8ac73b3d0036dac562e85155b10b6451.png" group-title="DEPORTES ARGENTINA",EL GARAGE TV OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/96930
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES 13" tvg-logo="http://mastertv.pro:8080/images/4f3b3308d60030afc3ac74e35cb63a84.png" group-title="DEPORTES CHILE",DEPORTES 13
+http://mastertv.pro:8080/tuser@27461/hola@6655/97017
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES OPCION 1" tvg-logo="https://i.imgur.com/b5huVAR.png" group-title="DEPORTES PERU",MOVISTAR DEPORTES OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/76832
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES OPCION 2" tvg-logo="https://i.imgur.com/b5huVAR.png" group-title="DEPORTES PERU",MOVISTAR DEPORTES OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/76834
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="http://mastertv.pro:8080/images/0a642df0842f8c73afe720eefcdd1fa1.png" group-title="DEPORTES PERU",LIGA 1 MAX
+http://mastertv.pro:8080/tuser@27461/hola@6655/186682
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1" tvg-logo="http://mastertv.pro:8080/images/ddb4d218ae3ebaafaf470f969d2576d9.png" group-title="DEPORTES PERU",LIGA 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/186951
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 1" tvg-logo="http://mastertv.pro:8080/images/5f2d1796c197856f6f5844bff4281c41.png" group-title="DEPORTES PERU",GOL PERU OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/76789
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 2" tvg-logo="http://mastertv.pro:8080/images/5f2d1796c197856f6f5844bff4281c41.png" group-title="DEPORTES PERU",GOL PERU OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/76790
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 3" tvg-logo="http://mastertv.pro:8080/images/5f2d1796c197856f6f5844bff4281c41.png" group-title="DEPORTES PERU",GOL PERU OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/76791
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 4" tvg-logo="http://mastertv.pro:8080/images/5f2d1796c197856f6f5844bff4281c41.png" group-title="DEPORTES PERU",GOL PERU OPCION 4
+http://mastertv.pro:8080/tuser@27461/hola@6655/76816
+
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 5" tvg-logo="https://i.imgur.com/Wz7OFH9.png" group-title="DEPORTES PERU",GOL PERU OPCION 5
+http://mastertv.pro:8080/tuser@27461/hola@6655/76817
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ESPN PREMIUM OPCION 1" tvg-logo="http://mastertv.pro:8080/images/6c43a2f6eb9797a0b05141bf97fa8119.png" group-title="DEPORTES ARGENTINA",ESPN PREMIUM OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/76953
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ESPN PREMIUM OPCION 2" tvg-logo="https://i.imgur.com/uY5GBZG.png" group-title="DEPORTES ARGENTINA",ESPN PREMIUM OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/76954
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ESPN PREMIUM OPCION 3" tvg-logo="http://mastertv.pro:8080/images/6c43a2f6eb9797a0b05141bf97fa8119.png" group-title="DEPORTES ARGENTINA",ESPN PREMIUM OPCION 3
+http://mastertv.pro:8080/tuser@27461/hola@6655/76955
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-name="TYC SPORTS INTERNACIONAL OPCION 1" tvg-logo="http://mastertv.pro:8080/images/780f8951b84f6269e6cd42b9916d229e.png" group-title="DEPORTES ARGENTINA",TYC SPORTS INTERNACIONAL OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/76956
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-name="TYC SPORTS INTERNACIONAL OPCION 2" tvg-logo="http://mastertv.pro:8080/images/780f8951b84f6269e6cd42b9916d229e.png" group-title="DEPORTES ARGENTINA",TYC SPORTS INTERNACIONAL OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/76957
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 1 OPCION 1" tvg-logo="http://mastertv.pro:8080/images/cd1a308eed3858b27a101cf1f38ace98.png" group-title="DEPORTES PARAGUAY",TIGO SPORTS 1 OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/77149
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 1 OPCION 2" tvg-logo="http://mastertv.pro:8080/images/cd1a308eed3858b27a101cf1f38ace98.png" group-title="DEPORTES PARAGUAY",TIGO SPORTS 1 OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/77150
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS PLUS OPCION 1" tvg-logo="http://mastertv.pro:8080/images/cd1a308eed3858b27a101cf1f38ace98.png" group-title="DEPORTES PARAGUAY",TIGO SPORTS PLUS OPCION 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/77170
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS PLUS OPCION 2" tvg-logo="http://mastertv.pro:8080/images/cd1a308eed3858b27a101cf1f38ace98.png" group-title="DEPORTES PARAGUAY",TIGO SPORTS PLUS OPCION 2
+http://mastertv.pro:8080/tuser@27461/hola@6655/77171
+#EXTINF:-1 tvg-id="FoxSportsChile.cl" tvg-name="FOX SPORTS CHILE" tvg-logo="https://i.imgur.com/yxdZh9n.png" group-title="DEPORTES CHILE",FOX SPORTS CHILE
+http://mastertv.pro:8080/tuser@27461/hola@6655/77196
