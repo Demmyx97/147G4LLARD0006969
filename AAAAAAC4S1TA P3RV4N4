@@ -85,6 +85,14 @@ http://mastertv.pro:8080/tuser@27461/hola@6655/105428
 #EXTINF:-1 tvg-id="" tvg-name="NATIVA" tvg-logo="" group-title="PERU TV",NATIVA
 http://mastertv.pro:8080/tuser@27461/hola@6655/154623
 
+#EXTINF:- 1, LIGA 1 MAX HD
+http://201.218.137.227:4000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="http://mastertv.pro:8080/images/0a642df0842f8c73afe720eefcdd1fa1.png" group-title="DEPORTES PERU",LIGA 1 MAX
+http://mastertv.pro:8080/tuser@27461/hola@6655/186682
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1" tvg-logo="http://mastertv.pro:8080/images/ddb4d218ae3ebaafaf470f969d2576d9.png" group-title="DEPORTES PERU",LIGA 1
+http://mastertv.pro:8080/tuser@27461/hola@6655/186951
+
 
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 1" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 1
 http://mastertv.pro:8080/tuser@27461/hola@6655/76789
