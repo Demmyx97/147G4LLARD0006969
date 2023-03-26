@@ -1,128 +1,235 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA TV OPCION 1" tvg-logo="http://mastertv.pro:8080/images/ca9c808f23b415b46d7fbe015d148111.png" group-title="PERU TV",AMERICA TV OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86965
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA TV OPCION 2" tvg-logo="http://mastertv.pro:8080/images/ca9c808f23b415b46d7fbe015d148111.png" group-title="PERU TV",AMERICA TV OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86966
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AMERICA TV OPCION 3" tvg-logo="http://mastertv.pro:8080/images/ca9c808f23b415b46d7fbe015d148111.png" group-title="PERU TV",AMERICA TV OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@6655/86967
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA OPCION 1" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86968
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA OPCION 2" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86969
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="LATINA OPCION 3" tvg-logo="http://mastertv.pro:8080/images/a5896a7128e58ac1f08b844728fcc061.png" group-title="PERU TV",LATINA OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@6655/86970
-#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV OPCION 1" tvg-logo="http://mastertv.pro:8080/images/ebb901dcb566446b4b2511802e4d1e9a.png" group-title="PERU TV",ATV OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86971
-#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV OPCION 2" tvg-logo="http://mastertv.pro:8080/images/ebb901dcb566446b4b2511802e4d1e9a.png" group-title="PERU TV",ATV OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86972
-#EXTINF:-1 tvg-id="" tvg-name="ATV + OPCION 1" tvg-logo="https://i.imgur.com/k76zIgp.png" group-title="PERU TV",ATV + OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86973
-#EXTINF:-1 tvg-id="" tvg-name="ATV + OPCION 2" tvg-logo="https://i.imgur.com/k76zIgp.png" group-title="PERU TV",ATV + OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86974
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA OPCION 1" tvg-logo="https://i.imgur.com/iujgTyy.png" group-title="PERU TV",PANAMERICANA OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86975
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA OPCION 2" tvg-logo="https://i.imgur.com/iujgTyy.png" group-title="PERU TV",PANAMERICANA OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86976
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="PANAMERICANA OPCION 3" tvg-logo="https://i.imgur.com/iujgTyy.png" group-title="PERU TV",PANAMERICANA OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@6655/86977
-#EXTINF:-1 tvg-id="" tvg-name="TV PERU OPCION 1" tvg-logo="http://mastertv.pro:8080/images/30ab4e97aa3c1b30b5fb205cb9257d38.png" group-title="PERU TV",TV PERU OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86978
-#EXTINF:-1 tvg-id="" tvg-name="TV PERU OPCION 2" tvg-logo="https://i.imgur.com/gfx4I1Y.png" group-title="PERU TV",TV PERU OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86979
-#EXTINF:-1 tvg-id="" tvg-name="CANAL N OPCION 1" tvg-logo="http://mastertv.pro:8080/images/ca89299ba89b4cac2d339804dec9de5b.png" group-title="PERU TV",CANAL N OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86980
-#EXTINF:-1 tvg-id="" tvg-name="CANAL N OPCION 2" tvg-logo="https://i.imgur.com/JURyl91.png" group-title="PERU TV",CANAL N OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86981
-#EXTINF:-1 tvg-id="" tvg-name="CANAL IPE OPCION 1" tvg-logo="https://i.imgur.com/BQchr99.png" group-title="PERU TV",CANAL IPE OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86982
-#EXTINF:-1 tvg-id="" tvg-name="CANAL IPE OPCION 2" tvg-logo="https://i.imgur.com/BQchr99.png" group-title="PERU TV",CANAL IPE OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86983
-#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-name="PERU MAGICO OPCION 1" tvg-logo="http://mastertv.pro:8080/images/3c7461bc12e6b54d2f193d1e52812c09.png" group-title="PERU TV",PERU MAGICO OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86984
-#EXTINF:-1 tvg-id="PeruMagico.pe" tvg-name="PERU MAGICO OPCION 2" tvg-logo="https://i.imgur.com/Kkd9Z30.png" group-title="PERU TV",PERU MAGICO OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86985
-#EXTINF:-1 tvg-id="" tvg-name="RPP OPCION 1" tvg-logo="https://i.imgur.com/PsG22Tc.png" group-title="PERU TV",RPP OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86986
-#EXTINF:-1 tvg-id="" tvg-name="RPP OPCION 2" tvg-logo="http://mastertv.pro:8080/images/d0ecb053669b8f422975a2b017ed9625.png" group-title="PERU TV",RPP OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86987
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX TV OPCION 1" tvg-logo="http://mastertv.pro:8080/images/44ebe1dce4f064bed46467d6cf952f2f.png" group-title="PERU TV",WILLAX TV OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/86990
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="WILLAX TV OPCION 2" tvg-logo="http://mastertv.pro:8080/images/44ebe1dce4f064bed46467d6cf952f2f.png" group-title="PERU TV",WILLAX TV OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/86991
-#EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV" tvg-logo="http://mastertv.pro:8080/images/9e99217bfad308eb7139bfa15e6d9c88.png" group-title="PERU TV",CAPITAL TV
-http://mastertv.pro:8080/tuser@27461/hola@6655/86995
-#EXTINF:-1 tvg-id="" tvg-name="+ CUMBIA TV" tvg-logo="https://i.imgur.com/rgjrBZl.png" group-title="PERU TV",+ CUMBIA TV
-http://mastertv.pro:8080/tuser@27461/hola@6655/86996
-#EXTINF:-1 tvg-id="" tvg-name="MEMORIAS TV" tvg-logo="https://i.imgur.com/d9tlTtf.png" group-title="PERU TV",MEMORIAS TV
-http://mastertv.pro:8080/tuser@27461/hola@6655/87006
-#EXTINF:-1 tvg-id="" tvg-name="ANTARES TV" tvg-logo="https://i.imgur.com/JwyFGKn.png" group-title="PERU TV",ANTARES TV
-http://mastertv.pro:8080/tuser@27461/hola@6655/87014
-#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="https://i.imgur.com/Q2ScV4y.png" group-title="PERU TV",BHTV
-http://mastertv.pro:8080/tuser@27461/hola@6655/87019
-#EXTINF:-1 tvg-id="" tvg-name="CENTRAL TV CHOSICA" tvg-logo="https://i.imgur.com/OjjxCv3.png" group-title="PERU TV",CENTRAL TV CHOSICA
-http://mastertv.pro:8080/tuser@27461/hola@6655/87021
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA TV 24" tvg-logo="https://i.imgur.com/vTUMt4x.png" group-title="PERU TV",CULTURA TV 24
-http://mastertv.pro:8080/tuser@27461/hola@6655/87022
-#EXTINF:-1 tvg-id="" tvg-name="EXITOSA HD" tvg-logo="http://mastertv.pro:8080/images/fa6124fc17dea78a46d685276cbda515.png" group-title="PERU TV",EXITOSA HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/87023
-#EXTINF:-1 tvg-id="" tvg-name="GENIOS TV" tvg-logo="https://i.imgur.com/Xhc3Jtu.png" group-title="PERU TV",GENIOS TV
-http://mastertv.pro:8080/tuser@27461/hola@6655/87024
-#EXTINF:-1 tvg-id="" tvg-name="JN19" tvg-logo="https://i.imgur.com/1mwZ6Pn.png" group-title="PERU TV",JN19
-http://mastertv.pro:8080/tuser@27461/hola@6655/87028
-#EXTINF:-1 tvg-id="" tvg-name="MONTERRICO TV" tvg-logo="http://mastertv.pro:8080/images/946aad70e901ea01bf0cbfcee85825b9.png" group-title="PERU TV",MONTERRICO TV
-http://mastertv.pro:8080/tuser@27461/hola@6655/87030
-#EXTINF:-1 tvg-id="" tvg-name="OVACION" tvg-logo="http://mastertv.pro:8080/images/e2682f335cba21250ef4d249cb2696a3.png" group-title="PERU TV",OVACION
-http://mastertv.pro:8080/tuser@27461/hola@6655/87032
-#EXTINF:-1 tvg-id="" tvg-name="TV COSMOS 15.1" tvg-logo="http://mastertv.pro:8080/images/8ea86d11c2b8da66961dfd6ff9bcfb5d.png" group-title="PERU TV",TV COSMOS 15.1
-http://mastertv.pro:8080/tuser@27461/hola@6655/87037
-#EXTINF:-1 tvg-id="" tvg-name="TV PERUANISIMA" tvg-logo="http://mastertv.pro:8080/images/ad5d51274eae2350c73c2b658326dcbb.png" group-title="PERU TV",TV PERUANISIMA
-http://mastertv.pro:8080/tuser@27461/hola@6655/87039
-#EXTINF:-1 tvg-id="" tvg-name="HUANUCO TV" tvg-logo="https://i.imgur.com/iGfOVbt.png" group-title="PERU TV",HUANUCO TV
-http://mastertv.pro:8080/tuser@27461/hola@6655/87041
-#EXTINF:-1 tvg-id="" tvg-name="VISION TV" tvg-logo="https://i.imgur.com/VKNDLmR.png" group-title="PERU TV",VISION TV
-http://mastertv.pro:8080/tuser@27461/hola@6655/105428
-#EXTINF:-1 tvg-id="" tvg-name="NATIVA" tvg-logo="" group-title="PERU TV",NATIVA
-http://mastertv.pro:8080/tuser@27461/hola@6655/154623
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU HD DIRECTO extra" tvg-logo="" group-title="DEPORTES PERU",GOL PERU HD DIRECTO extra
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/cee47439-aa20-4820-8e52-658b14a660de.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="PE: LIGA 1 MAX" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",PE: LIGA 1 MAX
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d3403bb2-f853-4e98-87bc-e7f9b901f735.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX" tvg-logo="http://mastertv.pro:8080/images/0a642df0842f8c73afe720eefcdd1fa1.png" group-title="DEPORTES PERU",LIGA 1 MAX
-http://mastertv.pro:8080/tuser@27461/hola@6655/186682
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1" tvg-logo="http://mastertv.pro:8080/images/ddb4d218ae3ebaafaf470f969d2576d9.png" group-title="DEPORTES PERU",LIGA 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/186951
+#EXTINF:-1 tvg-id="" tvg-name="PE: LIGA 1" tvg-logo="https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1813.png" group-title="DEPORTES PERU",PE: LIGA 1
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/75ff52a0-8970-480e-a6d5-8c9bafd40765.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 op2 (E)" tvg-logo="https://imgmedia.libero.pe/670x369/libero/original/2022/08/27/630a73fd0260905637334baa.webp" group-title="DEPORTES PERU",LIGA 1 op2 (E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/24f14174-baa3-4011-a7c1-2559a2b06235.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 opc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOiKghOyzXw4R_tMA11SmwVDseQhxWfh9aA&usqp=CAU" group-title="DEPORTES PERU",LIGA 1 opc3
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e034ec1f-73c7-4c96-868d-6573a5ac49ab.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA MAX 1 opc2 (E)" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA MAX 1 opc2 (E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9811e244-7044-4fc0-aa7f-7ac2f0af48e7.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX opc3" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA 1 MAX opc3
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7e029f28-86b8-4ce8-9b68-d83dcff3f44d.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX opc4" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA 1 MAX opc4
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/bc104139-7999-43b4-b160-f42334846360.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PE HD" tvg-logo="http://dalepley.club:8080/images/ZCtyqWEU9008K1wyo3nGnXyeDu8418Co82RNGNcHRNKBPwKmPVzIUNgxOQx16s1m.png" group-title="DEPORTES PERU",ESPN PE HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/2fd8100b-008d-49b2-8f99-974bc7c647fe.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PE" tvg-logo="http://dalepley.club:8080/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgNzIWFCCFVVdnBF8VsID4DAEQA5NyqPDaGJSyegwmnXA.png" group-title="DEPORTES PERU",ESPN PE
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d9ff599f-ea76-45a9-ab3a-ab98e7ff8833.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PE" tvg-logo="http://dalepley.club:8080/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7TNswmSYKVXZvX-NGOIBwcWISoFNIAGjbxTNa85AHnHESUFs9-_9sj3Yx5XLN56iRc.png" group-title="DEPORTES PERU",ESPN PE
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/3a86ae92-b223-4338-84e2-6ffb29a84dc8.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 PE" tvg-logo="http://dalepley.club:8080/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7TNswmSYKVXZvX-NGOIBwcWvq1GhLU38M1kWlLzcr_lV0GZIpPyK9T7SHldfSgs1-8.png" group-title="DEPORTES PERU",ESPN 2 PE
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5c4f47c2-eee7-4a8b-bedc-d5e5c3d8b0ff.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 PE SD" tvg-logo="http://dalepley.club:8080/images/qw9Sd5JnDX2uSQDrGmMcum4vK9YOluc1JbNSTPd3oKiGdfkXoc4qZlQT8VS5JRPs.png" group-title="DEPORTES PERU",ESPN 2 PE SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1724a12a-a091-446a-aa47-e0757cc02946.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  PE HD" tvg-logo="http://dalepley.club:8080/images/qw9Sd5JnDX2uSQDrGmMcum4vK9YOluc1JbNSTPd3oKiGdfkXoc4qZlQT8VS5JRPs.png" group-title="DEPORTES PERU",ESPN 2  PE HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1c425a28-6a2b-40cc-bcea-9d57e09c0665.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 1" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/76789
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 2" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/76790
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 3" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@6655/76791
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 4" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 4
-http://mastertv.pro:8080/tuser@27461/hola@6655/76816
-#EXTINF:-1 tvg-id="" tvg-name="GOL PERU OPCION 5" tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES PERU",GOL PERU OPCION 5
-http://mastertv.pro:8080/tuser@27461/hola@6655/76817
+#EXTINF:-1 tvg-id="" tvg-name="Best Cable Sports" tvg-logo="https://scontent.flim28-2.fna.fbcdn.net/v/t39.30808-6/299324398_607792881059196_8859157532226416284_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=wrONCHiiWTkAX_Rs4ra&_nc_ht=scontent.flim28-2.fna&oh=00_AfCKTyGzFtcPDYEE84OHO76xKUD6pMk6LPokRK5vp1X-Ew&oe=63D8E3CF" group-title="DEPORTES PERU",Best Cable Sports
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/0e6e260f-1ad9-461d-9b0f-c66646561b2d.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS OPCION 1" tvg-logo="http://mastertv.pro:8080/images/e584dfa99e805839b3e3fd1e09b4fc41.png" group-title="DEPORTES PERU",MOVISTAR PLUS OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/87044
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS OPCION 2" tvg-logo="https://i.imgur.com/MrJiQFR.png" group-title="DEPORTES PERU",MOVISTAR PLUS OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/87045
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PERU" tvg-logo="http://mastertv.pro:8080/images/2b782bef722f473c6ee2e5f7d0df5c5f.png" group-title="DEPORTES PERU",ESPN PERU
-http://mastertv.pro:8080/tuser@27461/hola@6655/87046
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2 PERU" tvg-logo="http://mastertv.pro:8080/images/b5c360145f54e5f3da03169753c4a828.png" group-title="DEPORTES PERU",ESPN2 PERU
-http://mastertv.pro:8080/tuser@27461/hola@6655/181133
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS - PERU" tvg-logo="http://mastertv.pro:8080/images/ffe4ae8bcde1f50a8efe145318527ba9.png" group-title="DEPORTES PERU",DIRECTV SPORTS - PERU
-http://mastertv.pro:8080/tuser@27461/hola@6655/176153
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PERU" tvg-logo="http://mastertv.pro:8080/images/88f2fdcfc09ac4a0fadb2a35b6e05b8e.png" group-title="DEPORTES PERU",DIRECTV SPORTS PERU
-http://mastertv.pro:8080/tuser@27461/hola@6655/87047
-#EXTINF:-1 tvg-id="610dtv.pe" tvg-name="DIRECTV SPORTS PERU" tvg-logo="http://mastertv.pro:8080/images/88f2fdcfc09ac4a0fadb2a35b6e05b8e.png" group-title="DEPORTES PERU",DIRECTV SPORTS PERU
-http://mastertv.pro:8080/tuser@27461/hola@6655/92593
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES OPCION 1" tvg-logo="http://mastertv.pro:8080/images/552074a08141cf7200ffb1eeacae48f9.png" group-title="DEPORTES PERU",MOVISTAR DEPORTES OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/76832
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES OPCION 2" tvg-logo="http://mastertv.pro:8080/images/552074a08141cf7200ffb1eeacae48f9.png" group-title="DEPORTES PERU",MOVISTAR DEPORTES OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/76834
+#EXTINF:-1 tvg-id="" tvg-name="Monterrico TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Monterrico_TV_%282006_-%29.jpg/revision/latest/scale-to-width-down/340?cb=20150330182601" group-title="DEPORTES PERU",Monterrico TV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/b5274788-97d6-41b2-80b2-71036a2583a7.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BEST CABLE SPORTS OPCION 1" tvg-logo="http://mastertv.pro:8080/images/1888ed06e8258b0d11876c61bf379a18.png" group-title="DEPORTES PERU",BEST CABLE SPORTS OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/168056
-#EXTINF:-1 tvg-id="" tvg-name="BEST CABLE SPORT OPCION 2" tvg-logo="http://mastertv.pro:8080/images/1888ed06e8258b0d11876c61bf379a18.png" group-title="DEPORTES PERU",BEST CABLE SPORT OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/168057
+#EXTINF:-1 tvg-id="SPOPHD" tvg-name="Directv Sports Perú" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PERU",Directv Sports Perú
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/6d10e510-85d2-4ea2-bd6b-dbdcc9223338.ts
+#EXTINF:-1 tvg-id="SPO2HD" tvg-name="Directv Sports 2" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports 2
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9cb29d94-5e1e-40d6-a6e2-e18b88db6159.ts
+#EXTINF:-1 tvg-id="SPOPLH" tvg-name="Directv Sports + Plus" tvg-logo="http://fanc.tmsimg.com/assets/s107455_ll_h3_ac.png" group-title="DEPORTES PERU",Directv Sports + Plus
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/a0388a58-532a-4ba4-8ea8-9093ac4f2723.ts
+#EXTINF:-1 tvg-id="MOVDEP" tvg-name="Movistar Deportes HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES PERU",Movistar Deportes HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e3baf0c1-959f-422b-97f3-01897e20281b.ts
+#EXTINF:-1 tvg-id="MOVDEP" tvg-name="Movistar Deportes HD" tvg-logo="http://fanc.tmsimg.com/assets/s50213_ll_h3_aa.png" group-title="DEPORTES PERU",Movistar Deportes HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/985f1931-7fe2-4349-9b2b-054bbd6007d7.ts
+#EXTINF:-1 tvg-id="MOVDEPH" tvg-name="Movistar Plus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",Movistar Plus SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/67931819-e76d-4316-b59b-7003b4bee0aa.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Plus SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="DEPORTES PERU",Movistar Plus SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1a132e04-fc6b-450d-a510-1e97e1080bb1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol Perú HD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú HD DIRECTO
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/703aa8d9-7668-4861-bb65-e285cf8efe32.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol Perú HD" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/2457b631-a8f1-4404-be64-df36400ead10.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gol Perú SD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú SD DIRECTO
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/977cba13-b849-40b9-a8ad-00088b397fbf.ts
+
+#EXTINF:-1 tvg-id="FRELTHD" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD DIRECTO
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5fd80352-62f4-48ad-ad86-fa470c84da2f.ts
+#EXTINF:-1 tvg-id="FRELTHD" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD DIRECTO
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7e4e4ceb-e819-4f5e-9210-a08a9413e650.ts
+#EXTINF:-1 tvg-id="FRLTDA" tvg-name="Latina SD" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/6fe2f262-3f08-4381-9e35-eb0725d70795.ts
+#EXTINF:-1 tvg-id="AMTVHD" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/a1cd0290-00a3-4920-a154-ae339305df02.ts
+#EXTINF:-1 tvg-id="AMTVHD" tvg-name="America TV HD" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/c647cef2-f881-486f-8770-fd3f42c29a34.ts
+#EXTINF:-1 tvg-id="AMTVHD" tvg-name="America TV HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s15389_ll_h3_ab.png" group-title="PERU",America TV HD DIRECTO
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/65e4f20c-3c90-4546-8082-bf23bbe63b0d.ts
+#EXTINF:-1 tvg-id="PAINDA" tvg-name="Panamericana FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana FHD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/819ea49c-574f-45f6-9933-bfbd897c7ed0.ts
+#EXTINF:-1 tvg-id="PAINDA" tvg-name="Panamericana HD" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d3221307-cc42-42aa-9928-65969ce21cee.ts
+#EXTINF:-1 tvg-id="PAINDA" tvg-name="Panamericana" tvg-logo="http://fanc.tmsimg.com/assets/s50264_ll_h3_aa.png" group-title="PERU",Panamericana
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d6c900e7-c75a-4502-8d1b-aea966431e7e.ts
+#EXTINF:-1 tvg-id="ATVPHDA" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/47dceb48-8dd4-4d2c-b68c-e5de652e1668.ts
+#EXTINF:-1 tvg-id="ATVPHDA" tvg-name="ATV HD" tvg-logo="http://fanc.tmsimg.com/assets/s91679_ll_h3_aa.png" group-title="PERU",ATV HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/69d55fc8-9083-4b5a-8f94-05af45b6a746.ts
+#EXTINF:-1 tvg-id="ATVPLHD" tvg-name="ATV +" tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg" group-title="PERU",ATV +
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/c7572552-db35-40c0-8ed0-5df4de2e6fab.ts
+#EXTINF:-1 tvg-id="PERUHD" tvg-name="TV Perú HD" tvg-logo="http://fanc.tmsimg.com/assets/s75002_ll_h3_ac.png" group-title="PERU",TV Perú HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/83cc42e5-e265-473d-a926-3f02bcfa328c.ts
+#EXTINF:-1 tvg-id="PERUHDA" tvg-name="TV Perú SD." tvg-logo="http://fanc.tmsimg.com/assets/s75002_ll_h3_ac.png" group-title="PERU",TV Perú SD.
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9b1a858c-2828-4c4b-a15b-95c11d1cfa65.ts
+#EXTINF:-1 tvg-id="PMAGIC" tvg-name="Perú Magico FHD" tvg-logo="http://fanc.tmsimg.com/assets/s50335_ll_h3_aa.png" group-title="PERU",Perú Magico FHD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/c357558a-a5e8-4579-898f-a68360efb4f8.ts
+#EXTINF:-1 tvg-id="PMAGIC" tvg-name="Perú Magico HD" tvg-logo="http://fanc.tmsimg.com/assets/s50335_ll_h3_aa.png" group-title="PERU",Perú Magico HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/8bdbf100-a29e-4cb8-9b56-028929b8dc25.ts
+#EXTINF:-1 tvg-id="CANALN" tvg-name="Canal N HD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9e16f2e0-0bad-479d-9b14-b70faa0b8e57.ts
+#EXTINF:-1 tvg-id="CANALN" tvg-name="Canal N SD" tvg-logo="http://fanc.tmsimg.com/assets/s50212_ll_h3_aa.png" group-title="PERU",Canal N SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/67388a6c-d63b-4f3f-9742-fcbd525766cb.ts
+#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://i.imgur.com/ig5ruXb.png" group-title="PERU",RPP
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/deae6fa7-7111-461d-b6c8-9d6b87b912de.ts
+#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://i.imgur.com/ig5ruXb.png" group-title="PERU",RPP
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f9951b99-8ee7-43d4-9ba5-7e6e295d6d39.ts
+#EXTINF:-1 tvg-id="EXITOAA" tvg-name="Exitosa HD" tvg-logo="http://fanc.tmsimg.com/assets/s113719_ll_h3_aa.png" group-title="PERU",Exitosa HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f21c8c6a-d79f-43da-af8c-8e3f8bf367fc.ts
+#EXTINF:-1 tvg-id="EXITOAA" tvg-name="Exitosa HD" tvg-logo="http://fanc.tmsimg.com/assets/s113719_ll_h3_aa.png" group-title="PERU",Exitosa HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/891e4131-021e-487c-8b63-98c3109f98b3.ts
+#EXTINF:-1 tvg-id="" tvg-name="Willax HD" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d9caba17-7e1b-4e89-a271-04f7517b1500.ts
+#EXTINF:-1 tvg-id="WILLAXA" tvg-name="Willax SD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s80845_ll_h3_aa.png" group-title="PERU",Willax SD DIRECTO
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e74cca6c-200a-40b1-ab1a-f95e5933207a.ts
+#EXTINF:-1 tvg-id="IPE" tvg-name="IPE HD" tvg-logo="http://fanc.tmsimg.com/assets/s111704_ll_h3_aa.png" group-title="PERU",IPE HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f9010019-7f3b-407f-a831-29c14ab817ea.ts
+#EXTINF:-1 tvg-id="" tvg-name="Monterrico TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Monterrico_TV_%282006_-%29.jpg/revision/latest/scale-to-width-down/340?cb=20150330182601" group-title="DEPORTES PERU",Monterrico TV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/b5274788-97d6-41b2-80b2-71036a2583a7.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vision Noticias Peru" tvg-logo="https://television-live.com/uploads/posts/yhdh56hgergerg.jpg" group-title="PERU",Vision Noticias Peru
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/81a35044-3021-4326-b2c5-b2a0052a2a02.ts
+#EXTINF:-1 tvg-id="TVNOTI" tvg-name="TV Peru Noticias" tvg-logo="http://fanc.tmsimg.com/assets/s110092_ll_h3_ab.png" group-title="PERU",TV Peru Noticias
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/827511ef-699f-4ccc-8186-cac7ca8a29b8.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cultura 24 TV" tvg-logo="https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" group-title="PERU",Cultura 24 TV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/97a3459e-29a3-43e4-81e2-c11fa6fdc1fd.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chiquilines Tv" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7a/39/a8/7a39a813-e3f5-4701-90e5-b7c1c6d34d3d/source/512x512bb.jpg" group-title="PERU",Chiquilines Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/6e058429-9a91-4d82-85ee-244e75b3c12f.ts
+#EXTINF:-1 tvg-id="PAXTELE" tvg-name="Top Cine" tvg-logo="https://a.jsrdn.com/hls/23008/top-cine/poster_20211119_205946.jpg" group-title="PERU",Top Cine
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/987f880d-cb78-4f02-8efd-cb8d262464ec.ts
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Mix" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png" group-title="PERU",Turbo Mix
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/92ade7c3-365e-4e58-9fb6-8d22be493c59.ts
+#EXTINF:-1 tvg-id="" tvg-name="Top Cine" tvg-logo="https://pbs.twimg.com/profile_images/1146229909/header_cinelogo_1_400x400.png" group-title="PERU",Top Cine
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/a683a010-1b4c-493f-8844-e05e5addb642.ts
+#EXTINF:-1 tvg-id="" tvg-name="Top Latino" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png" group-title="PERU",Top Latino
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5af5d797-de9a-477e-a577-ff92344207f4.ts
+#EXTINF:-1 tvg-id="" tvg-name="Memorias Tv" tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png" group-title="PERU",Memorias Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d907de7f-4ea5-46de-a338-6a6c808a5130.ts
+#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="https://www.m3u.cl/logo/695_BHTV.png" group-title="PERU",BHTV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/addc6e72-72ad-4400-a08a-e17c395281bd.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mi Tv del Recuerdo" tvg-logo="https://www.mi-television.com/img/imagen-final-2_orig.png" group-title="PERU",Mi Tv del Recuerdo
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5482159b-0724-49ca-ab1b-4023dd267873.ts
+#EXTINF:-1 tvg-id="" tvg-name="Flash Tv" tvg-logo="https://www.medyakoridoru.com/wp-content/uploads/2021/04/24/24042021104942_92128_10_49.jpg" group-title="PERU",Flash Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5e349ec2-c097-4ce8-835c-80ff70c876fc.ts
+#EXTINF:-1 tvg-id="" tvg-name="San Borja TV" tvg-logo="https://4.bp.blogspot.com/-pNNP7XOfK2A/WX-7e9J0fAI/AAAAAAAAKhs/JUV5fiX6znQYPwVXmhjTDjhY1BiUo3dVACLcBGAs/s1600/san-borja.jpg" group-title="PERU",San Borja TV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ad1478fe-c871-47be-bf0f-69aaa7e3c5dc.ts
+#EXTINF:-1 tvg-id="" tvg-name="Saber Mas Tv" tvg-logo="https://www.sabermassermas.com/wp-content/uploads/2019/05/sabermas-2.png" group-title="PERU",Saber Mas Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/80e8c40d-01d3-489b-a452-cd1dbde0fe6e.ts
+#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="PERU",Antares TV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7d34e4f3-1322-4d0a-ab49-399dd55d444f.ts
+#EXTINF:-1 tvg-id="" tvg-name="Genios Television" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=272x10000:format=jpg/path/s86a1480785a470a0/image/iec1f514e68ac327e/version/1615874753/image.jpg" group-title="PERU",Genios Television
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/3fde24e3-f733-444e-a6e8-faf8f1b11256.ts
+#EXTINF:-1 tvg-id="" tvg-name="LotPlus TV" tvg-logo="https://www.coolstreaming.us/img/ch/ima46884140884.jpg" group-title="PERU",LotPlus TV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/80e69ea4-8988-4259-b0e3-1fbe430920a1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Norte" tvg-logo="https://pbs.twimg.com/profile_images/1024678310180278273/OjVwCe7h_400x400.jpg" group-title="PERU",Tv Norte
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7d8cbaed-533d-4082-8a66-ac890c0eee1b.ts
+#EXTINF:-1 tvg-id="" tvg-name="RetroPlus" tvg-logo="https://image.roku.com/developer_channels/prod/407b41e3649e464cd4a478c2858e6e2e1b3b85536634ab2188f23eb5402fe438.png" group-title="PERU",RetroPlus
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ffe9cb7c-f035-47ff-b0a3-10f6c06feacf.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV peruanisima" tvg-logo="https://www.m3u.cl/logo/686_TVperuanisima.png" group-title="PERU",TV peruanisima
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/21ad4d79-7e03-4577-b697-d51705f252b5.ts
+#EXTINF:-1 tvg-id="" tvg-name="Autentica Tv" tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png" group-title="PERU",Autentica Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9a684938-d864-4078-ab0a-2650e7beda29.ts
+#EXTINF:-1 tvg-id="" tvg-name="CR Tv" tvg-logo="https://crtv.pe/wp-content/uploads/2020/08/LOGO-CR.png" group-title="PERU",CR Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/3ac08c17-a562-4c7d-9fd6-728b6d2dfc41.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vz Tv" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png" group-title="PERU",Vz Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/92b8b926-a5c8-4989-a7c7-222c28856078.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sanjuanera Tv" tvg-logo="https://img77.uenicdn.com/image/upload/v1593812981/business/cc346a31-6702-4bfd-b28f-a11eee668bf0.png" group-title="PERU",Sanjuanera Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/c3345b0b-0b3a-47a5-b2ab-fcc5e2a3ccf4.ts
+#EXTINF:-1 tvg-id="" tvg-name="Onda Digital TV" tvg-logo="https://ondadigitaltv.com/wp-content/uploads/2018/11/LOGO-2019-1.png" group-title="PERU",Onda Digital TV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/af2bc3c6-1237-44b4-a946-1d16abd5775e.ts
+#EXTINF:-1 tvg-id="" tvg-name="Controversia Tv" tvg-logo="https://pbs.twimg.com/profile_images/378800000023368798/df985ae23006dee3b1e93ef92cdd6edc_400x400.jpeg" group-title="PERU",Controversia Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f2237480-5836-493c-b337-7805d8080c11.ts
+#EXTINF:-1 tvg-id="" tvg-name="Uranio Tv" tvg-logo="https://www.coolstreaming.us/img/ch/ima98001053557.jpg" group-title="PERU",Uranio Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/4cb81bbe-67a9-436c-a679-01a447e9bbf3.ts
+#EXTINF:-1 tvg-id="" tvg-name="Via Alto Mayo" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042013/via_alto_mayo.png?itok=EGPtW5nL" group-title="PERU",Via Alto Mayo
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/81218097-c3b4-4e4e-809e-bcd0823dfdd1.ts
+#EXTINF:-1 tvg-id="" tvg-name="OK TeVe" tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2021/07/cropped-logo.png" group-title="PERU",OK TeVe
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/16127559-39e3-4652-9687-8e9c53fa43e6.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Cosmos" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cosmos-Per%C3%BA-en-vivo-Online.png" group-title="PERU",Tv Cosmos
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/75d5f8ef-4b61-47ff-9ced-f8ddd64ff5bc.ts
+#EXTINF:-1 tvg-id="" tvg-name="Video Tour Music" tvg-logo="https://i.ytimg.com/vi/LZFF8EuaGjM/sddefault.jpg" group-title="PERU",Video Tour Music
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/aee7aaaf-efd9-4c12-b601-c5a9bb5fd1be.ts
+#EXTINF:-1 tvg-id="" tvg-name="Central Tv" tvg-logo="https://pbs.twimg.com/profile_images/859494397309849605/6NaekNvP_400x400.jpg" group-title="PERU",Central Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/4615e68b-fc50-48b5-9305-70d3be93e23a.ts
+#EXTINF:-1 tvg-id="" tvg-name="Via Television" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png" group-title="PERU",Via Television
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/fce4d636-a0da-4270-95f1-8076888ddf22.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tropical Tv" tvg-logo="https://radiotropical.pe/wp-content/uploads/2020/08/logo-png-fondo-blanco.jpg" group-title="PERU",Tropical Tv
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7acb2a2b-d395-46ad-9541-153c98116f61.ts
+#EXTINF:-1 tvg-id="" tvg-name="Global HD" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/08/GlobalTelevision-Logo-300x300.jpg" group-title="PERU",Global HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1a7127e7-6929-495b-abdc-6ac1c81c97ad.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vision TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="PERU",Vision TV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/dcd24914-710b-461b-8cce-d0ca0d540b07.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vision Musica TV" tvg-logo="https://www.m3u.cl/logo/876_Vision_Musica_TV.png" group-title="PERU",Vision Musica TV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7f77228b-1891-453d-a6a0-af95f77d347d.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chincha TV" tvg-logo="https://1.bp.blogspot.com/-TXnZUr414IE/YQHtvHFzzoI/AAAAAAAAG64/fZUuLwPSSYU5PYRr_h06SVXjCe_WrqrUwCLcBGAsYHQ/s340/logo%2Bweb%2B2021%2Bjulio.png" group-title="PERU",Chincha TV
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9a2579fa-6071-4715-a10b-b070335cbfe7.ts
+#EXTINF:-1 tvg-id="SURPERU" tvg-name="Sur Peru" tvg-logo="http://fanc.tmsimg.com/assets/s46753_ll_h3_aa.png" group-title="PERU",Sur Peru
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/0ccc425b-4506-41cc-8077-920e58499256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="PERU",Radio RPP
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5563afa4-1b80-469c-963f-f16453d8047e.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Exitosa" tvg-logo="https://mx.radio.net/images/broadcasts/e3/6f/111315/1/c300.png" group-title="PERU",Radio Exitosa
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/8690df00-85a1-4dda-bdf2-9aaeb8c43dcc.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Cumbia" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qacan2typptw.png" group-title="PERU",Radio Cumbia
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/571f010e-ecaf-462f-99b0-240ccef046e2.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Moda" tvg-logo="http://radiosfm.pe/images/Moda.jpg" group-title="PERU",Radio Moda
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/813969b2-022f-460d-a4ba-f90320191ff1.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Nueva Q" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/8fTKXj2Ynz.png" group-title="PERU",Radio Nueva Q
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/b6199a65-dcd9-4e06-9876-3b2c597377f9.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio La Zona" tvg-logo="https://cdn-profiles.tunein.com/s174226/images/logod.png" group-title="PERU",Radio La Zona
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/40ba593b-ff88-4dfa-8eb2-03b4eeb3b48e.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Onda Cero" tvg-logo="https://co.radio.net/images/broadcasts/27/ae/108413/1/c300.png" group-title="PERU",Radio Onda Cero
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ca988984-0faf-454c-83d7-e4a89b0fe8f7.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio America" tvg-logo="https://1.bp.blogspot.com/-vLqfOzYE8zc/YMgljwRWRFI/AAAAAAAAYyU/IfOjunkquFkHADGo0fd0LanFUamUSALqQCLcBGAsYHQ/w280/radio%252Bamerica%252B104.7fm%252Bjuntemonos%252Bmas.png" group-title="PERU",Radio America
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/c966b84a-00c7-4282-94d1-2928577cf77f.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Felicidad" tvg-logo="http://www.radiosperuanas.pe/wp-content/uploads/2017/07/radio-felicidad-1.png" group-title="PERU",Radio Felicidad
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/58d07981-f7cc-45d6-b588-62c30097f934.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Z  Rock & Pop" tvg-logo="http://www.radioz.pe/radio_z_logo.png" group-title="PERU",Radio Z  Rock & Pop
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/6398ec56-1969-4d0b-9d7b-9596b2b10ebb.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radiomar" tvg-logo="https://www.radiosperuanas.pe/wp-content/uploads/2017/07/radiomar-plus.png" group-title="PERU",Radiomar
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/558bcc09-3d61-4f2a-88f9-b7e1745b5686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Oasis" tvg-logo="https://cdn-profiles.tunein.com/s129164/images/logog.png?t=636390" group-title="PERU",Radio Oasis
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1c457d15-73b6-4aee-811b-347a8212e8d7.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ritmo Romantica" tvg-logo="https://s3.amazonaws.com/cdn.emisoras.com/upload/radio_logo/5/3_1339774154_radio-romantica-93.1-fm-peru.jpg" group-title="PERU",Radio Ritmo Romantica
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f40a4de7-328f-4a0c-98e0-db4b4e8c1cef.ts
+#EXTINF:-1 tvg-id="" tvg-name="HITS 360" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="PERU",HITS 360
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/98567d9c-9c10-4b3f-9a7f-3bd80f5eb4f0.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Ovacion" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/51/6d/fe/516dfe8a-7d3f-228d-3e0e-ed65771506db/source/512x512bb.jpg" group-title="PERU",Radio Ovacion
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/aa446017-868d-4dd7-9e62-24a7058a34b0.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio La Kalle" tvg-logo="https://www.radio.it/images/broadcasts/cb/1f/33732/c300.png" group-title="PERU",Radio La Kalle
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/8c27c57b-6c35-4af1-a15a-f121320b26fd.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Oxigeno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Ox%C3%ADgeno_radio_2013.png" group-title="PERU",Radio Oxigeno
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/eb7b3f06-3bd1-4870-b1d5-cb72b9ed251f.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Disney" tvg-logo="https://s3.amazonaws.com/cdn.emisoras.com/upload/radio_logo/5/3_1324395861_andina-radio-logo.jpg" group-title="PERU",Radio Disney
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/3b54eb8a-8901-451b-93cc-2cfbf7f92c7a.ts
+#EXTINF:-1 tvg-id="" tvg-name="Perú Folklor" tvg-logo="https://s3.amazonaws.com/cdn.emisoras.com/upload/radio_logo/5/3_1339765475_perufolkradio.jpg" group-title="PERU",Perú Folklor
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e9f822e2-bcd5-4745-9467-b2d3ff098411.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Karibeña" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4T9RuHnF42.png" group-title="PERU",Radio Karibeña
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/0327fd0d-be64-49fb-b44e-d3e2f88f7f90.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio Metropolitano Cusco" tvg-logo="https://www.radio.es/images/broadcasts/23/f6/125070/1/c300.png" group-title="PERU",Radio Metropolitano Cusco
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/3de02c2b-2cea-4a87-b7b8-44829eb2b90d.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIVA PE" tvg-logo="https://www.planetaradios.com/content/radios_fm/radio-nativa-fm-la-merced.png" group-title="PERU",NATIVA PE
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/545bb88d-3bf8-4273-84af-14f3f733223a.ts
