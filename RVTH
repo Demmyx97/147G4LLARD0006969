@@ -1,370 +1,95 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 1" tvg-logo="http://mastertv.pro:8080/images/a3e647a8dffcd603d8ca34f7fcaa9803.png" group-title="CULTURA",ANIMAL PLANET OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/6105
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 2" tvg-logo="https://i.imgur.com/zPPGbtn.png" group-title="CULTURA",ANIMAL PLANET OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/6106
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ANIMAL PLANET OPCION 3" tvg-logo="https://i.imgur.com/zPPGbtn.png" group-title="CULTURA",ANIMAL PLANET OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@6655/6107
+#EXTINF:-1 tvg-id="" tvg-name="History en Español" tvg-logo="http://p-img.movetv.com/cms/images/9a4bb2521d32a810901481bdb721948632ed72d9.png" group-title="CULTURA",History en Español
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/029c264b-dd64-44ba-9270-da5d5ac82e56.ts
 
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID OPCION 1" tvg-logo="http://mastertv.pro:8080/images/101f0fc405a27f6883302438f7160c74.png" group-title="CULTURA",DISCOVERY ID OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/6125
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="DISCOVERY ID OPCION 2" tvg-logo="https://i.imgur.com/YGXS5Tc.png" group-title="CULTURA",DISCOVERY ID OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/6126
+#EXTINF:-1 tvg-id="ANIPAA2" tvg-name="Animal Planet HD AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s18649_ll_h3_af.png" group-title="CULTURA",Animal Planet HD AR(E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/8e8619da-6ace-4380-8e7c-0874dcf4b1e6.ts
+#EXTINF:-1 tvg-id="ANIPLAM" tvg-name="Animal Planet HD MX(E)" tvg-logo="http://fanc.tmsimg.com/assets/s18649_ll_h3_af.png" group-title="CULTURA",Animal Planet HD MX(E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f4c3660a-8c2c-4270-89c5-8e077ac2f7bd.ts
 
-#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="HISTORY 2 OPCION 1" tvg-logo="http://mastertv.pro:8080/images/2e0706d5b344811cb4f2b475f0a0d147.png" group-title="CULTURA",HISTORY 2 OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/6138
-#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="HISTORY 2 OPCION 2" tvg-logo="https://i.imgur.com/86zKlg8.png" group-title="CULTURA",HISTORY 2 OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/6139
-#EXTINF:-1 tvg-id="744dtv.cl" tvg-name="HISTORY 2 OPCION 3" tvg-logo="http://mastertv.pro:8080/images/2e0706d5b344811cb4f2b475f0a0d147.png" group-title="CULTURA",HISTORY 2 OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@6655/6140
-#EXTINF:-1 tvg-id="1742dtv.cl" tvg-name="HISTORY OPCION 1" tvg-logo="http://mastertv.pro:8080/images/3671cfc83a6fbf1a87f99d007b190894.png" group-title="CULTURA",HISTORY OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/6141
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HISTORY OPCION 2" tvg-logo="http://mastertv.pro:8080/images/3671cfc83a6fbf1a87f99d007b190894.png" group-title="CULTURA",HISTORY OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/6142
+#EXTINF:-1 tvg-id="TDCLAM" tvg-name="Discovery Channel AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="CULTURA",Discovery Channel AR HD(E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/15597d7a-21f2-471f-9198-bb4f3341e9dc.ts
+#EXTINF:-1 tvg-id="TDCLAM" tvg-name="Discovery Channel Mexico MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="CULTURA",Discovery Channel Mexico MX HD(E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9af1b9fd-5602-4697-86d4-c9694e2aa9c2.ts
+#EXTINF:-1 tvg-id="DCIVLA" tvg-name="Discovery Civilization" tvg-logo="http://fanc.tmsimg.com/assets/s46609_ll_h3_aa.png" group-title="CULTURA",Discovery Civilization
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/0b7d4e2e-6641-4008-9c19-553384aed687.ts
+#EXTINF:-1 tvg-id="DFAMHD" tvg-name="Discovery Family" tvg-logo="http://fanc.tmsimg.com/assets/s99630_ll_h3_aa.png" group-title="CULTURA",Discovery Family
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/8015b3df-c17b-4104-97e2-e8b1c57ad92f.ts
+#EXTINF:-1 tvg-id="IDLA" tvg-name="Discovery ID AR HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25743_h3_aa.png" group-title="CULTURA",Discovery ID AR HD(E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/c0f3bcac-9ff2-444a-aa1f-74040d1dddf7.ts
+#EXTINF:-1 tvg-id="IDLA" tvg-name="Discovery ID MX HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s25743_h3_aa.png" group-title="CULTURA",Discovery ID MX HD(E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/55cd23c4-ecd5-49f7-b0da-9976bde325fb.ts
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE OPCION 1" tvg-logo="http://mastertv.pro:8080/images/8110ddd5807b05bc1de7164aab72f193.png" group-title="ARGENTINA TV",TELEFE OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/96871
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE OPCION 2" tvg-logo="http://mastertv.pro:8080/images/8110ddd5807b05bc1de7164aab72f193.png" group-title="ARGENTINA TV",TELEFE OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/96872
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE OPCION 3" tvg-logo="https://i.imgur.com/HL6CceN.png" group-title="ARGENTINA TV",TELEFE OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@6655/96873
-#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="EL NUEVE OPCION 1" tvg-logo="http://mastertv.pro:8080/images/dfe4b24dfdbd47b8a4e9a7c7d57169eb.png" group-title="ARGENTINA TV",EL NUEVE OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/96874
-#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="EL NUEVE OPCION 2" tvg-logo="https://i.imgur.com/YUer3i2.png" group-title="ARGENTINA TV",EL NUEVE OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/96875
-#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="EL NUEVE OPCION 3" tvg-logo="http://mastertv.pro:8080/images/dfe4b24dfdbd47b8a4e9a7c7d57169eb.png" group-title="ARGENTINA TV",EL NUEVE OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@6655/96876
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="CANAL TRECE OPCION 1" tvg-logo="http://mastertv.pro:8080/images/51d092653815afb7af79774e18ad2da8.png" group-title="ARGENTINA TV",CANAL TRECE OPCION 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/96877
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="CANAL TRECE OPCION 2" tvg-logo="https://i.imgur.com/SZoDdoq.png" group-title="ARGENTINA TV",CANAL TRECE OPCION 2
-http://mastertv.pro:8080/tuser@27461/hola@6655/96878
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="CANAL TRECE OPCION 3" tvg-logo="https://i.imgur.com/SZoDdoq.png" group-title="ARGENTINA TV",CANAL TRECE OPCION 3
-http://mastertv.pro:8080/tuser@27461/hola@6655/96879
 
-#EXTINF:-1 tvg-id="I5.87004.schedulesdirect.org" tvg-name="A&E HD" tvg-logo="http://mastertv.pro:8080/images/bfd7d120827fa9066944717004ec4e9a.png" group-title="ENTRETENIMIENTO & NOVELAS",A&E HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6195
-#EXTINF:-1 tvg-id="I143.1798.tvguide.co.uk" tvg-name="KANAL D DRAMA (NOVELAS TURCAS) HD" tvg-logo="http://mastertv.pro:8080/images/c3786818c1af9d1538559e0eba0d5889.png" group-title="ENTRETENIMIENTO & NOVELAS",KANAL D DRAMA (NOVELAS TURCAS) HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6196
-#EXTINF:-1 tvg-id="I35.90898.schedulesdirect.org" tvg-name="A3 SERIES FULL HD" tvg-logo="https://i.imgur.com/2xfE3iy.png" group-title="ENTRETENIMIENTO & NOVELAS",A3 SERIES FULL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6197
-#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="AZ CINEMA FULL HD" tvg-logo="https://i.imgur.com/Ji3zaS4.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CINEMA FULL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6198
-#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="AZ CLIC FULL HD" tvg-logo="https://i.imgur.com/XJ92WDa.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CLIC FULL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6199
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="AZ CORAZON HD" tvg-logo="https://i.imgur.com/NkUPlTb.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CORAZON HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6202
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="AZ CORAZON FULL HD" tvg-logo="https://i.imgur.com/NkUPlTb.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ CORAZON FULL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6204
-#EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="AZ MUNDO HD" tvg-logo="https://i.imgur.com/16IDviF.png" group-title="ENTRETENIMIENTO & NOVELAS",AZ MUNDO HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6207
-#EXTINF:-1 tvg-id="215dtv.cl" tvg-name="COMEDY CENTRAL FULL HD" tvg-logo="https://i.imgur.com/tFmnqsz.png" group-title="ENTRETENIMIENTO & NOVELAS",COMEDY CENTRAL FULL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6208
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA FULL HD" tvg-logo="https://i.imgur.com/IJVN4tH.png" group-title="ENTRETENIMIENTO & NOVELAS",DISTRITO COMEDIA FULL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6211
-#EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E! FULL HD" tvg-logo="http://mastertv.pro:8080/images/1fc9045bd2bf18a9bb1d8e2353f81b6d.png" group-title="ENTRETENIMIENTO & NOVELAS",E! FULL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6214
-#EXTINF:-1 tvg-id="222e!.cl" tvg-name="RCN XTRA" tvg-logo="https://i.imgur.com/qCTTA9p.png" group-title="ENTRETENIMIENTO & NOVELAS",RCN XTRA
-http://mastertv.pro:8080/tuser@27461/hola@6655/6215
-#EXTINF:-1 tvg-id="I331.61514.schedulesdirect.org" tvg-name="GLITZ SD" tvg-logo="http://mastertv.pro:8080/images/5b948bde35adab7315836ec6e9774997.png" group-title="ENTRETENIMIENTO & NOVELAS",GLITZ SD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6216
-#EXTINF:-1 tvg-id="230dtv.cl" tvg-name="MAS CHIC FULL HD" tvg-logo="https://i.imgur.com/IKE79jY.png" group-title="ENTRETENIMIENTO & NOVELAS",MAS CHIC FULL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6217
-#EXTINF:-1 tvg-id="225dtv.cl" tvg-name="PASIONES HD" tvg-logo="https://i.imgur.com/I47lKRB.png" group-title="ENTRETENIMIENTO & NOVELAS",PASIONES HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6218
-#EXTINF:-1 tvg-id="pasiones.co" tvg-name="RCN MAS +" tvg-logo="http://mastertv.pro:8080/images/dcdbef131022463fd3c7f88d7da296a0.png" group-title="ENTRETENIMIENTO & NOVELAS",RCN MAS +
-http://mastertv.pro:8080/tuser@27461/hola@6655/6219
-#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-name="TELEMUNDO NEW YORK HD" tvg-logo="http://mastertv.pro:8080/images/f880288a28405f61cd8e85fc645c071c.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO NEW YORK HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6220
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO NEW ORLEANS HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO NEW ORLEANS HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6221
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO CHICAGO HD" tvg-logo="http://mastertv.pro:8080/images/f880288a28405f61cd8e85fc645c071c.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO CHICAGO HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6222
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TELEMUNDO INTERNACIONAL HD" tvg-logo="http://mastertv.pro:8080/images/f880288a28405f61cd8e85fc645c071c.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO INTERNACIONAL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6223
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO FRESNO HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO FRESNO HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6224
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TELEMUNDO INTERNACIONAL HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO INTERNACIONAL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6225
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LAS VEGAS HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO LAS VEGAS HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6226
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO LOS ANGELES HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO LOS ANGELES HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6227
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO MIAMI HD" tvg-logo="http://mastertv.pro:8080/images/f880288a28405f61cd8e85fc645c071c.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO MIAMI HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6228
-#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-name="TELEMUNDO WEST HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO WEST HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6229
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO NEW YORK HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO NEW YORK HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6230
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PHILADELPHIA HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO PHILADELPHIA HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6231
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO PHOENIX ARIZONA HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO PHOENIX ARIZONA HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6232
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SAN DIEGO HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO SAN DIEGO HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6233
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO SAN FRANCISCO HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO SAN FRANCISCO HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6234
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO WASHINGTON HD" tvg-logo="https://i.imgur.com/lj9GOh0.png" group-title="ENTRETENIMIENTO & NOVELAS",TELEMUNDO WASHINGTON HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6236
-#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="TLNOVELAS FULL HD" tvg-logo="https://i.imgur.com/0kgN3bo.png" group-title="ENTRETENIMIENTO & NOVELAS",TLNOVELAS FULL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6237
-#EXTINF:-1 tvg-id="227dtv.cl" tvg-name="TLNOVELAS HD" tvg-logo="https://i.imgur.com/0kgN3bo.png" group-title="ENTRETENIMIENTO & NOVELAS",TLNOVELAS HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6238
-#EXTINF:-1 tvg-id="220dtv.cl" tvg-name="TRU TV FULL HD" tvg-logo="https://i.imgur.com/KowhjOK.png" group-title="ENTRETENIMIENTO & NOVELAS",TRU TV FULL HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6239
-#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN NOVELAS" tvg-logo="http://mastertv.pro:8080/images/8536b3a94cb857c244a60d2a4dd77b26.png" group-title="ENTRETENIMIENTO & NOVELAS",RCN NOVELAS
-http://mastertv.pro:8080/tuser@27461/hola@6655/6240
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION TELENOVELAS HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6241
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION NEW YORK HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION NEW YORK HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6242
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION MIAMI HD" tvg-logo="http://mastertv.pro:8080/images/e633b2806b074fc6497f3b16d0a2d963.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION MIAMI HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6243
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CHICAGO HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION CHICAGO HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6244
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION HOUSTON HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION HOUSTON HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6245
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION ATLANTA HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION ATLANTA HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6246
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION CLEVELAND HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION CLEVELAND HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6247
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION FRESNO HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION FRESNO HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6248
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION GEORGIA HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION GEORGIA HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6249
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION PHOENIX HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION PHOENIX HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6250
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION WEST HD" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION WEST HD
-http://mastertv.pro:8080/tuser@27461/hola@6655/6251
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION SALT LAKE CITY" tvg-logo="https://i.imgur.com/llMpUY9.png" group-title="ENTRETENIMIENTO & NOVELAS",UNIVISION SALT LAKE CITY
-http://mastertv.pro:8080/tuser@27461/hola@6655/6252
+#EXTINF:-1 tvg-id="TELEFA" tvg-name="ARG: Telefe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",ARG: Telefe HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/92c5fbd2-2aa9-476b-82d5-24c976d2ae05.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Telefe HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",ARG: Telefe HD (E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7735e2bd-d656-4378-9f48-a04331ea05f9.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",ARG: El trece HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/cb1d0045-5231-4807-a298-b04bdc8e746f.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION LOS ANGELES" tvg-logo="http://mastertv.pro:8080/images/9ed5ba67593386f02acbd1623f784771.png" group-title="ENTRETENIMIENTO & NOVELAS",GALAVISION LOS ANGELES
-http://mastertv.pro:8080/tuser@27461/hola@6655/192088
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION DALLAS" tvg-logo="http://mastertv.pro:8080/images/9ed5ba67593386f02acbd1623f784771.png" group-title="ENTRETENIMIENTO & NOVELAS",GALAVISION DALLAS
-http://mastertv.pro:8080/tuser@27461/hola@6655/192089
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION EAST" tvg-logo="http://mastertv.pro:8080/images/9ed5ba67593386f02acbd1623f784771.png" group-title="ENTRETENIMIENTO & NOVELAS",GALAVISION EAST
-http://mastertv.pro:8080/tuser@27461/hola@6655/192090
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SAN FRANCISCO" tvg-logo="http://mastertv.pro:8080/images/9ed5ba67593386f02acbd1623f784771.png" group-title="ENTRETENIMIENTO & NOVELAS",GALAVISION SAN FRANCISCO
-http://mastertv.pro:8080/tuser@27461/hola@6655/192092
+#EXTINF:-1 tvg-id="52735ece-f15a-4820-837d-ff5c9f8c9e84" tvg-name="24/7 La hija del Mariachi" tvg-logo="data:image/jpeg;base64,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" group-title="24/7 - NOVELAS",24/7 La hija del Mariachi
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/52735ece-f15a-4820-837d-ff5c9f8c9e84.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BILLY Y MANDY" tvg-logo="http://mastertv.pro:8080/images/d6c65e4cb991cddf801b86dd416d75cc.png" group-title="INFANTILES 24/7",BILLY Y MANDY
-http://mastertv.pro:8080/tuser@27461/hola@6655/75010
-#EXTINF:-1 tvg-id="" tvg-name="JIMMY NEUTRON" tvg-logo="http://mastertv.pro:8080/images/0bbfbfa94995885e8f5ad00313f49f9c.png" group-title="INFANTILES 24/7",JIMMY NEUTRON
-http://mastertv.pro:8080/tuser@27461/hola@6655/75011
-#EXTINF:-1 tvg-id="" tvg-name="CORAJE EL PERRO COBARDE" tvg-logo="http://mastertv.pro:8080/images/c218e66fef9191fd7c105618d5ba39bf.png" group-title="INFANTILES 24/7",CORAJE EL PERRO COBARDE
-http://mastertv.pro:8080/tuser@27461/hola@6655/75013
-#EXTINF:-1 tvg-id="" tvg-name="TEEN TITANS GO" tvg-logo="http://mastertv.pro:8080/images/ca9d12d7da8f34d897be17c44abd42fa.png" group-title="INFANTILES 24/7",TEEN TITANS GO
-http://mastertv.pro:8080/tuser@27461/hola@6655/75014
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN LA SERIE ANIMADA" tvg-logo="http://mastertv.pro:8080/images/45c12c6fc486665c225b875b64eae64b.png" group-title="INFANTILES 24/7",BATMAN LA SERIE ANIMADA
-http://mastertv.pro:8080/tuser@27461/hola@6655/75018
-#EXTINF:-1 tvg-id="" tvg-name="DANNY PHANTOM" tvg-logo="http://mastertv.pro:8080/images/761a71673ab443cff4972e93bdabc48c.png" group-title="INFANTILES 24/7",DANNY PHANTOM
-http://mastertv.pro:8080/tuser@27461/hola@6655/75019
-#EXTINF:-1 tvg-id="" tvg-name="DAVE EL BARBARO" tvg-logo="http://mastertv.pro:8080/images/5e4744a58d5be3cb6072c71c6aa56e46.png" group-title="INFANTILES 24/7",DAVE EL BARBARO
-http://mastertv.pro:8080/tuser@27461/hola@6655/75020
-#EXTINF:-1 tvg-id="" tvg-name="DEATH NOTE" tvg-logo="http://mastertv.pro:8080/images/807bae2a2d838a38c03066041bee2c57.png" group-title="INFANTILES 24/7",DEATH NOTE
-http://mastertv.pro:8080/tuser@27461/hola@6655/75021
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z  CELL" tvg-logo="http://mastertv.pro:8080/images/c158ee324ae535b8aabd0dac1cdcd690.png" group-title="INFANTILES 24/7",DRAGON BALL Z  CELL
-http://mastertv.pro:8080/tuser@27461/hola@6655/75024
-#EXTINF:-1 tvg-id="" tvg-name="EL CHAPULIN COLORADO ANIMADO" tvg-logo="http://mastertv.pro:8080/images/7c694f6464c2767673b8b72ffaa381b6.png" group-title="INFANTILES 24/7",EL CHAPULIN COLORADO ANIMADO
-http://mastertv.pro:8080/tuser@27461/hola@6655/75025
-#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL OCHO" tvg-logo="http://mastertv.pro:8080/images/7be1963605d49bd3e0ada547169b0fbc.png" group-title="24/7",EL CHAVO DEL OCHO
-http://mastertv.pro:8080/tuser@27461/hola@6655/75026
-#EXTINF:-1 tvg-id="" tvg-name="EL PROYECTO Z" tvg-logo="http://mastertv.pro:8080/images/f1ccfcd0e1e6781eca7771a672ae70a4.png" group-title="INFANTILES 24/7",EL PROYECTO Z
-http://mastertv.pro:8080/tuser@27461/hola@6655/75028
-#EXTINF:-1 tvg-id="" tvg-name="G.I JOE" tvg-logo="http://mastertv.pro:8080/images/3cc73c4c78a97a40513831ce403a042d.png" group-title="INFANTILES 24/7",G.I JOE
-http://mastertv.pro:8080/tuser@27461/hola@6655/75029
-#EXTINF:-1 tvg-id="" tvg-name="GASPARIN Y SUS AMIGOS" tvg-logo="http://mastertv.pro:8080/images/91f7f6c7c2aad0d4f65f2b65f139a332.png" group-title="INFANTILES 24/7",GASPARIN Y SUS AMIGOS
-http://mastertv.pro:8080/tuser@27461/hola@6655/75031
-#EXTINF:-1 tvg-id="" tvg-name="GRAVITY FALLS" tvg-logo="http://mastertv.pro:8080/images/fc8bb760f8feb20740c9c116efbf8278.png" group-title="INFANTILES 24/7",GRAVITY FALLS
-http://mastertv.pro:8080/tuser@27461/hola@6655/75032
-#EXTINF:-1 tvg-id="" tvg-name="IRON MAN ANIMADO" tvg-logo="http://mastertv.pro:8080/images/a8e433118e0fbe8d49069449369293f4.png" group-title="INFANTILES 24/7",IRON MAN ANIMADO
-http://mastertv.pro:8080/tuser@27461/hola@6655/75038
-#EXTINF:-1 tvg-id="" tvg-name="JOHNNY TEST" tvg-logo="http://mastertv.pro:8080/images/c63d257838fa1d8f9cd9f32b62255191.png" group-title="INFANTILES 24/7",JOHNNY TEST
-http://mastertv.pro:8080/tuser@27461/hola@6655/75039
-#EXTINF:-1 tvg-id="" tvg-name="LIGA DE LA JUSTICIA ILIMITADA" tvg-logo="http://mastertv.pro:8080/images/a6bb3659998cb4bdb3efe08a4123d61b.png" group-title="INFANTILES 24/7",LIGA DE LA JUSTICIA ILIMITADA
-http://mastertv.pro:8080/tuser@27461/hola@6655/75045
-#EXTINF:-1 tvg-id="" tvg-name="LOS 4 FANTASTICOS" tvg-logo="http://mastertv.pro:8080/images/72c2749353ad31272c5c6a9d5b891b65.png" group-title="INFANTILES 24/7",LOS 4 FANTASTICOS
-http://mastertv.pro:8080/tuser@27461/hola@6655/75046
-#EXTINF:-1 tvg-id="" tvg-name="LOS MISTERIOS DE MOVILLE" tvg-logo="http://mastertv.pro:8080/images/3d95129854547934302de37d0afaf2ec.png" group-title="INFANTILES 24/7",LOS MISTERIOS DE MOVILLE
-http://mastertv.pro:8080/tuser@27461/hola@6655/75048
-#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR" tvg-logo="http://mastertv.pro:8080/images/1130f24861e54d70e41827ad1b344ffe.png" group-title="24/7",CINE TERROR
-http://mastertv.pro:8080/tuser@27461/hola@6655/75055
-#EXTINF:-1 tvg-id="" tvg-name="CINE INFANTIL " tvg-logo="http://mastertv.pro:8080/images/4877f014b4264b5ac418cc87cf9f36ea.png" group-title="24/7",CINE INFANTIL 
-http://mastertv.pro:8080/tuser@27461/hola@6655/75056
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="http://mastertv.pro:8080/images/545605d91f365d00b0281e6f93ec591c.png" group-title="INFANTILES 24/7",POKEMON
-http://mastertv.pro:8080/tuser@27461/hola@6655/75058
-#EXTINF:-1 tvg-id="" tvg-name="SAM Y CAT" tvg-logo="http://mastertv.pro:8080/images/4189ac27f1c9ca5abd660a91325c3de4.png" group-title="24/7",SAM Y CAT
-http://mastertv.pro:8080/tuser@27461/hola@6655/75061
-#EXTINF:-1 tvg-id="" tvg-name="SILVESTRE Y PIOLIN" tvg-logo="http://mastertv.pro:8080/images/ff70448a9fc7e11311988948054d4b72.png" group-title="INFANTILES 24/7",SILVESTRE Y PIOLIN
-http://mastertv.pro:8080/tuser@27461/hola@6655/75063
-#EXTINF:-1 tvg-id="" tvg-name="SPIDER MAN" tvg-logo="http://mastertv.pro:8080/images/d6cdf02e2f91cbd3ff175b538884c52b.png" group-title="INFANTILES 24/7",SPIDER MAN
-http://mastertv.pro:8080/tuser@27461/hola@6655/75067
-#EXTINF:-1 tvg-id="" tvg-name="STAR WARS" tvg-logo="http://mastertv.pro:8080/images/d262d07a4d2f2bc3546026bf362de0f1.png" group-title="INFANTILES 24/7",STAR WARS
-http://mastertv.pro:8080/tuser@27461/hola@6655/75070
-#EXTINF:-1 tvg-id="" tvg-name="STRANGER THINGS" tvg-logo="http://mastertv.pro:8080/images/ca2f79b5b119bae5134e0e983f9b00ea.png" group-title="24/7",STRANGER THINGS
-http://mastertv.pro:8080/tuser@27461/hola@6655/75072
-#EXTINF:-1 tvg-id="" tvg-name="STREET SHARKS" tvg-logo="http://mastertv.pro:8080/images/da68892f87dff45b8315af2cbf07d04f.png" group-title="INFANTILES 24/7",STREET SHARKS
-http://mastertv.pro:8080/tuser@27461/hola@6655/75073
-#EXTINF:-1 tvg-id="" tvg-name="SUPERMAN" tvg-logo="http://mastertv.pro:8080/images/021232b5d56a67c42b51e1da4fdf7905.png" group-title="INFANTILES 24/7",SUPERMAN
-http://mastertv.pro:8080/tuser@27461/hola@6655/75074
-#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS" tvg-logo="http://mastertv.pro:8080/images/f33482531cf1f4709817b99ab680a233.png" group-title="INFANTILES 24/7",THUNDERCATS
-http://mastertv.pro:8080/tuser@27461/hola@6655/75078
-#EXTINF:-1 tvg-id="" tvg-name="TRANSFORMERS" tvg-logo="http://mastertv.pro:8080/images/fcdf472dafd9b16d6e44dd5715f7c074.png" group-title="INFANTILES 24/7",TRANSFORMERS
-http://mastertv.pro:8080/tuser@27461/hola@6655/75079
-#EXTINF:-1 tvg-id="" tvg-name="X MEN" tvg-logo="http://mastertv.pro:8080/images/1b4606003fb283081da50cf251594725.png" group-title="INFANTILES 24/7",X MEN
-http://mastertv.pro:8080/tuser@27461/hola@6655/75081
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN DEL FUTURO" tvg-logo="http://mastertv.pro:8080/images/4716995db36b7cad3b51be18eca74603.png" group-title="INFANTILES 24/7",BATMAN DEL FUTURO
-http://mastertv.pro:8080/tuser@27461/hola@6655/75083
-#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://mastertv.pro:8080/images/a23145ddf5d467715dfa4a37cd799946.png" group-title="INFANTILES 24/7",BEN 10
-http://mastertv.pro:8080/tuser@27461/hola@6655/75084
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://mastertv.pro:8080/images/200a448920c604a609028b9f35f21ecd.png" group-title="INFANTILES 24/7",BOB ESPONJA
-http://mastertv.pro:8080/tuser@27461/hola@6655/75085
-#EXTINF:-1 tvg-id="" tvg-name="DORAEMON" tvg-logo="http://mastertv.pro:8080/images/a459a531176be04e17317e1540df98d9.png" group-title="INFANTILES 24/7",DORAEMON
-http://mastertv.pro:8080/tuser@27461/hola@6655/75092
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="http://mastertv.pro:8080/images/8450eb0b6221bed795dcc34b968bfcb6.png" group-title="INFANTILES 24/7",DRAGON BALL
-http://mastertv.pro:8080/tuser@27461/hola@6655/75093
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="http://mastertv.pro:8080/images/959994f643a93b11c945893f4db86128.png" group-title="INFANTILES 24/7",DRAGON BALL GT
-http://mastertv.pro:8080/tuser@27461/hola@6655/75094
-#EXTINF:-1 tvg-id="" tvg-name="EL PAJARO LOCO" tvg-logo="http://mastertv.pro:8080/images/daf0eefc74ea60167e90232a44631460.png" group-title="INFANTILES 24/7",EL PAJARO LOCO
-http://mastertv.pro:8080/tuser@27461/hola@6655/75096
-#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER 24/7" tvg-logo="http://mastertv.pro:8080/images/68d2de3ffaa2536b20216368368b26fb.png" group-title="24/7",HARRY POTTER 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/75100
-#EXTINF:-1 tvg-id="" tvg-name="JURASSIC PARK" tvg-logo="http://mastertv.pro:8080/images/261871e93e76e70dccdad00b61499b9c.png" group-title="INFANTILES 24/7",JURASSIC PARK
-http://mastertv.pro:8080/tuser@27461/hola@6655/75104
-#EXTINF:-1 tvg-id="" tvg-name="LOONEY TUNES" tvg-logo="http://mastertv.pro:8080/images/6e17ac19ab85d34f888492969a09f6a7.png" group-title="INFANTILES 24/7",LOONEY TUNES
-http://mastertv.pro:8080/tuser@27461/hola@6655/75107
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON 24/7" tvg-logo="http://mastertv.pro:8080/images/2183a66bbcbc9bd533076ace0d799c5a.png" group-title="24/7",LOS SIMPSON 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/75109
-#EXTINF:-1 tvg-id="" tvg-name="ONE PUNCH MAN" tvg-logo="http://mastertv.pro:8080/images/96f83252c0a304617e3131a1e18d0d8d.png" group-title="INFANTILES 24/7",ONE PUNCH MAN
-http://mastertv.pro:8080/tuser@27461/hola@6655/75113
-#EXTINF:-1 tvg-id="" tvg-name="RANMA 1/2" tvg-logo="http://mastertv.pro:8080/images/7f501c9e95a304b3a618d530cb160013.png" group-title="INFANTILES 24/7",RANMA 1/2
-http://mastertv.pro:8080/tuser@27461/hola@6655/75114
-#EXTINF:-1 tvg-id="" tvg-name="SHREK" tvg-logo="http://mastertv.pro:8080/images/1f2ab33341f05ec8668c8509b78f69e2.png" group-title="INFANTILES 24/7",SHREK
-http://mastertv.pro:8080/tuser@27461/hola@6655/75117
-#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH" tvg-logo="http://mastertv.pro:8080/images/173e0b5452697053bc63a1b3930697f3.png" group-title="INFANTILES 24/7",YU-GI-OH
-http://mastertv.pro:8080/tuser@27461/hola@6655/75123
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="CLASIFICAR",BOB ESPONJA
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/bd5dd3ec-bece-4fb2-b56b-643be2c5828d.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA PLUS" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="CLASIFICAR",BOB ESPONJA PLUS
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/64fd89ab-f3ca-4480-bc61-1b001d173d5b.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CASO CERRADO 24/7" tvg-logo="http://mastertv.pro:8080/images/0089b8762656707ad9ad6ce19009bf73.png" group-title="24/7",CASO CERRADO 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101321
-#EXTINF:-1 tvg-id="" tvg-name="AVENGERS 24/7" tvg-logo="http://mastertv.pro:8080/images/daafddd94c5cf5db453f4985562fc681.png" group-title="24/7",AVENGERS 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101328
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24/7" tvg-logo="http://mastertv.pro:8080/images/596d1d4b4a72f94f76552a70d0e6db21.png" group-title="24/7",DRAGON BALL Z 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101330
-#EXTINF:-1 tvg-id="" tvg-name="LOS AÑOS MARAVILLOSOS 24/7" tvg-logo="http://mastertv.pro:8080/images/2a9aa270a73cc9104cbc8a2aafdb1121.png" group-title="24/7",LOS AÑOS MARAVILLOSOS 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101335
-#EXTINF:-1 tvg-id="" tvg-name="BATMAN 1966 24/7" tvg-logo="http://mastertv.pro:8080/images/5ea7d33054251b762ba28c81f94d48b7.png" group-title="24/7",BATMAN 1966 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101339
-#EXTINF:-1 tvg-id="" tvg-name="BREAKING  BAD 24/7" tvg-logo="http://mastertv.pro:8080/images/6b8480ab563f6d9f8f0811495cfbf38a.png" group-title="24/7",BREAKING  BAD 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101340
-#EXTINF:-1 tvg-id="" tvg-name="CSI MIAMI 24/7" tvg-logo="http://mastertv.pro:8080/images/dc5a19125462e7fef479ca40e2e71533.png" group-title="24/7",CSI MIAMI 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101357
-#EXTINF:-1 tvg-id="" tvg-name="CINE ACCION 24/7" tvg-logo="http://mastertv.pro:8080/images/a35f3cdb12fd0a8b847369fb4b38f023.png" group-title="24/7",CINE ACCION 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101370
-#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO 24/7" tvg-logo="https://i.imgur.com/mME5HGZ.png" group-title="24/7",CINE LATINO 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101371
-#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN 24/7" tvg-logo="http://mastertv.pro:8080/images/20eb3dc90fc7a20ab173f494bd19b034.png" group-title="24/7",MR. BEAN 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101372
-#EXTINF:-1 tvg-id="" tvg-name="ALF 24/7" tvg-logo="http://mastertv.pro:8080/images/77e1e16823698b730859c40a8664a8a6.png" group-title="24/7",ALF 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101375
-#EXTINF:-1 tvg-id="" tvg-name="CHESPIRITO 24/7" tvg-logo="http://mastertv.pro:8080/images/b19c1973c018eaceb11a6952cb1d1f32.png" group-title="24/7",CHESPIRITO 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101381
-#EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 24/7" tvg-logo="http://mastertv.pro:8080/images/2feb20caa91169de78ac9ee73274cf55.png" group-title="24/7",CINE COMEDIA 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101383
-#EXTINF:-1 tvg-id="" tvg-name="CANTINFLAS 1 24/7" tvg-logo="http://mastertv.pro:8080/images/5c3fc43ac704fa714d8bc7a932829af4.png" group-title="24/7",CANTINFLAS 1 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101384
-#EXTINF:-1 tvg-id="" tvg-name="CINE ROMANCE 24/7" tvg-logo="http://mastertv.pro:8080/images/bfba1bd36b1921cf3196220d387e85e5.png" group-title="24/7",CINE ROMANCE 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101404
-#EXTINF:-1 tvg-id="" tvg-name="FRIENDS 24/7" tvg-logo="http://mastertv.pro:8080/images/2846cb00b5375fb7f8aedc62e49f01e7.png" group-title="24/7",FRIENDS 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101440
-#EXTINF:-1 tvg-id="" tvg-name="COBRA KAI 24/7" tvg-logo="http://mastertv.pro:8080/images/5dabb65f151c6fb7fe42f1583192ed67.png" group-title="24/7",COBRA KAI 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101463
-#EXTINF:-1 tvg-id="" tvg-name="MALCOM IN THE MIDDLE 24/7" tvg-logo="http://mastertv.pro:8080/images/2c023c78a8336c8fdf9a60ed3b185fca.png" group-title="24/7",MALCOM IN THE MIDDLE 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101464
-#EXTINF:-1 tvg-id="" tvg-name="EL AVISPON VERDE 24/7" tvg-logo="http://mastertv.pro:8080/images/951cb49ff94099d75b3acb66d0e78d28.png" group-title="24/7",EL AVISPON VERDE 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101476
-#EXTINF:-1 tvg-id="" tvg-name="EL CHAPULIN COLORADO 24/7" tvg-logo="http://mastertv.pro:8080/images/5ab683b7988fbc016095b8f3962d9d30.png" group-title="24/7",EL CHAPULIN COLORADO 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101491
-#EXTINF:-1 tvg-id="" tvg-name="EL PATRON DEL MAL 24/7" tvg-logo="http://mastertv.pro:8080/images/8f5d08cdd4a643755fedfd9da5ad8ff0.png" group-title="24/7",EL PATRON DEL MAL 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101492
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE PAPEL 24/7" tvg-logo="http://mastertv.pro:8080/images/138e2777263106feeee1b52810060221.png" group-title="24/7",LA CASA DE PAPEL 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101503
-#EXTINF:-1 tvg-id="" tvg-name="LA ROSA DE GUADALUPE 24/7" tvg-logo="http://mastertv.pro:8080/images/69cb51c332a45c3ebe0ff4d841ffb2de.png" group-title="24/7",LA ROSA DE GUADALUPE 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101505
-#EXTINF:-1 tvg-id="" tvg-name=" THE BIG BANG THEORY 24/7" tvg-logo="http://mastertv.pro:8080/images/ea88138b6e997ecac0fb91216d08283a.png" group-title="24/7", THE BIG BANG THEORY 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101513
-#EXTINF:-1 tvg-id="" tvg-name="MACGYVER 24/7" tvg-logo="http://mastertv.pro:8080/images/ee6d72227d0b3889395ff30aae6559c1.png" group-title="24/7",MACGYVER 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101515
-#EXTINF:-1 tvg-id="" tvg-name="MI BELLA GENIO 24/7" tvg-logo="https://i.imgur.com/4br9zf1.png" group-title="24/7",MI BELLA GENIO 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101519
-#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE 24/7" tvg-logo="http://mastertv.pro:8080/images/514cf5069dfc3dd62a90320ab140d2e1.png" group-title="24/7",SMALLVILLE 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101525
-#EXTINF:-1 tvg-id="" tvg-name="LE TEMES A LA OSCURIDAD 24/7" tvg-logo="http://mastertv.pro:8080/images/e5dba5d0b8e643efa8054b810c3d2a7e.png" group-title="24/7",LE TEMES A LA OSCURIDAD 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101528
-#EXTINF:-1 tvg-id="" tvg-name="LOS LOCOS ADDAMS 24/7" tvg-logo="https://i.imgur.com/5dkFKdU.png" group-title="24/7",LOS LOCOS ADDAMS 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101529
-#EXTINF:-1 tvg-id="" tvg-name="LUIS MIGUEL LA SERIE 24/7" tvg-logo="http://mastertv.pro:8080/images/8c020a06637c82f1eca1f573ecdfdd21.png" group-title="24/7",LUIS MIGUEL LA SERIE 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101532
-#EXTINF:-1 tvg-id="" tvg-name="CINE 2018 24/7" tvg-logo="http://mastertv.pro:8080/images/3dc25b995caadb684c419abccbeccfff.png" group-title="24/7",CINE 2018 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101533
-#EXTINF:-1 tvg-id="" tvg-name="LUCHA LIBRE AAA 24/7" tvg-logo="http://mastertv.pro:8080/images/25799a434f99703d0e99a005180ceb92.png" group-title="24/7",LUCHA LIBRE AAA 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101535
-#EXTINF:-1 tvg-id="" tvg-name="LUCHA LIBRE AAA WORLDWIDE 24/7" tvg-logo="http://mastertv.pro:8080/images/25799a434f99703d0e99a005180ceb92.png" group-title="24/7",LUCHA LIBRE AAA WORLDWIDE 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101536
-#EXTINF:-1 tvg-id="" tvg-name="EL CUENTO DE LA CRIADA 24/7" tvg-logo="http://mastertv.pro:8080/images/caa50947f6ae218240b295a6548a7e2a.png" group-title="24/7",EL CUENTO DE LA CRIADA 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101543
-#EXTINF:-1 tvg-id="" tvg-name="DIGIMON ADVENTURE 1" tvg-logo="http://mastertv.pro:8080/images/cfc919c31a54fb77e0626de3428d9db6.png" group-title="INFANTILES 24/7",DIGIMON ADVENTURE 1
-http://mastertv.pro:8080/tuser@27461/hola@6655/101559
-#EXTINF:-1 tvg-id="" tvg-name="DORA LA EXPLORADORA" tvg-logo="http://mastertv.pro:8080/images/e3213bed57634176a9d4b8b65ce92117.png" group-title="INFANTILES 24/7",DORA LA EXPLORADORA
-http://mastertv.pro:8080/tuser@27461/hola@6655/101563
-#EXTINF:-1 tvg-id="" tvg-name="GARFIELD" tvg-logo="https://i.imgur.com/7tVbqip.png" group-title="INFANTILES 24/7",GARFIELD
-http://mastertv.pro:8080/tuser@27461/hola@6655/101569
-#EXTINF:-1 tvg-id="" tvg-name="LA CASA DE MICKEY MOUSE" tvg-logo="http://mastertv.pro:8080/images/3ea82ac97c96c8d4e18f5083d7fd365c.png" group-title="INFANTILES 24/7",LA CASA DE MICKEY MOUSE
-http://mastertv.pro:8080/tuser@27461/hola@6655/101571
-#EXTINF:-1 tvg-id="" tvg-name="LA PANTERA ROSA" tvg-logo="http://mastertv.pro:8080/images/1a866c518d83bd41235816524a29624e.png" group-title="INFANTILES 24/7",LA PANTERA ROSA
-http://mastertv.pro:8080/tuser@27461/hola@6655/101573
-#EXTINF:-1 tvg-id="" tvg-name="HSITORIA DE UN CRIMEN 24/7" tvg-logo="http://mastertv.pro:8080/images/cd256764ed3bd5563692c6823eeb169c.png" group-title="24/7",HSITORIA DE UN CRIMEN 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101589
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD 24/7" tvg-logo="http://mastertv.pro:8080/images/f7417a7a3ab9bab5ef9b335713427396.png" group-title="24/7",HOLLYWOOD 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101594
-#EXTINF:-1 tvg-id="" tvg-name="INTO THE BADLANDS 24/7" tvg-logo="http://mastertv.pro:8080/images/602374d0814e08695d464f2c8c63cca4.png" group-title="24/7",INTO THE BADLANDS 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101595
-#EXTINF:-1 tvg-id="" tvg-name="SPACE FORCE 24/7" tvg-logo="http://mastertv.pro:8080/images/fc929eac0e24f6c2152220633ff7354d.png" group-title="24/7",SPACE FORCE 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101596
-#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="http://mastertv.pro:8080/images/71edab50761b329cd1de5dead74ee293.png" group-title="INFANTILES 24/7",PEPPA PIG
-http://mastertv.pro:8080/tuser@27461/hola@6655/101599
-#EXTINF:-1 tvg-id="" tvg-name="DINOSAURIOS" tvg-logo="http://mastertv.pro:8080/images/8b928928db3847ac185c4a3a4622005e.png" group-title="INFANTILES 24/7",DINOSAURIOS
-http://mastertv.pro:8080/tuser@27461/hola@6655/101600
-#EXTINF:-1 tvg-id="" tvg-name="HEY ARNOLD" tvg-logo="http://mastertv.pro:8080/images/d86f5925ada0640284804c0bd46f7a02.png" group-title="INFANTILES 24/7",HEY ARNOLD
-http://mastertv.pro:8080/tuser@27461/hola@6655/101607
-#EXTINF:-1 tvg-id="" tvg-name="HE-MAN Y LOS MAESTROS DEL UNIVERSO" tvg-logo="http://mastertv.pro:8080/images/c3c702e1303e8585e4c1a93a95bd46b8.png" group-title="INFANTILES 24/7",HE-MAN Y LOS MAESTROS DEL UNIVERSO
-http://mastertv.pro:8080/tuser@27461/hola@6655/101617
-#EXTINF:-1 tvg-id="" tvg-name="TOM Y JERRY" tvg-logo="http://mastertv.pro:8080/images/2f0272829f40e972169b51f92c4c7792.png" group-title="INFANTILES 24/7",TOM Y JERRY
-http://mastertv.pro:8080/tuser@27461/hola@6655/101620
-#EXTINF:-1 tvg-id="" tvg-name="SAILOR MOON " tvg-logo="http://mastertv.pro:8080/images/5156436ac7af04cafc2865b537b7e6f7.png" group-title="INFANTILES 24/7",SAILOR MOON 
-http://mastertv.pro:8080/tuser@27461/hola@6655/101627
-#EXTINF:-1 tvg-id="" tvg-name="SUPER CAMPEONES" tvg-logo="http://mastertv.pro:8080/images/21259cc0d49e98e70d04dec9ecaef913.png" group-title="INFANTILES 24/7",SUPER CAMPEONES
-http://mastertv.pro:8080/tuser@27461/hola@6655/101639
-#EXTINF:-1 tvg-id="" tvg-name="LA PEQUEÑA LULU" tvg-logo="http://mastertv.pro:8080/images/90f4e8f1cfa2f47b71fc7b112297f8f2.png" group-title="INFANTILES 24/7",LA PEQUEÑA LULU
-http://mastertv.pro:8080/tuser@27461/hola@6655/101666
-#EXTINF:-1 tvg-id="" tvg-name="FENOMENOIDE" tvg-logo="http://mastertv.pro:8080/images/18561bc964168517b3da78893121958a.png" group-title="INFANTILES 24/7",FENOMENOIDE
-http://mastertv.pro:8080/tuser@27461/hola@6655/101669
-#EXTINF:-1 tvg-id="" tvg-name="SPAWN ANIMADO 24/7" tvg-logo="http://mastertv.pro:8080/images/86f4d10ee3aac750379b9bbf83d4924a.png" group-title="INFANTILES 24/7",SPAWN ANIMADO 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101676
-#EXTINF:-1 tvg-id="" tvg-name="PINKY Y CEREBRO" tvg-logo="http://mastertv.pro:8080/images/61d21c29db6f891997210ab69042eef5.png" group-title="INFANTILES 24/7",PINKY Y CEREBRO
-http://mastertv.pro:8080/tuser@27461/hola@6655/101679
-#EXTINF:-1 tvg-id="" tvg-name="LOS PADRINOS MAGICOS" tvg-logo="http://mastertv.pro:8080/images/68b0fad8b942e2b77a94ab367dc0bd28.png" group-title="INFANTILES 24/7",LOS PADRINOS MAGICOS
-http://mastertv.pro:8080/tuser@27461/hola@6655/101694
-#EXTINF:-1 tvg-id="" tvg-name="ROBOTECH" tvg-logo="http://mastertv.pro:8080/images/5173f9274cbbf876a5ddd92542dde088.png" group-title="INFANTILES 24/7",ROBOTECH
-http://mastertv.pro:8080/tuser@27461/hola@6655/101703
-#EXTINF:-1 tvg-id="" tvg-name="LA MASCARA ANIMADO" tvg-logo="http://mastertv.pro:8080/images/02cf5f80bb3ed59d718e62d7b7672be5.png" group-title="INFANTILES 24/7",LA MASCARA ANIMADO
-http://mastertv.pro:8080/tuser@27461/hola@6655/101712
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="http://mastertv.pro:8080/images/7b6139bf512979533c601716ff360d3d.png" group-title="INFANTILES 24/7",NARUTO
-http://mastertv.pro:8080/tuser@27461/hola@6655/101715
-#EXTINF:-1 tvg-id="" tvg-name="STAR TREK: PICARD  24/7" tvg-logo="http://mastertv.pro:8080/images/d68fb47036438752c5821df8e175a6db.png" group-title="24/7",STAR TREK: PICARD  24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101716
-#EXTINF:-1 tvg-id="" tvg-name="JUEGO DE TRONOS 24/7" tvg-logo="http://mastertv.pro:8080/images/f316497ad214de398c696baddcfa8104.png" group-title="24/7",JUEGO DE TRONOS 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101727
-#EXTINF:-1 tvg-id="" tvg-name="STATIC SHOCK 24/7" tvg-logo="http://mastertv.pro:8080/images/d74b6643b1bef89369665aa3db813712.png" group-title="INFANTILES 24/7",STATIC SHOCK 24/7
-http://mastertv.pro:8080/tuser@27461/hola@6655/101728
+#EXTINF:-1 tvg-id="eec07cc8-f22e-4c57-91f3-acba932e39c1" tvg-name="24/7 Los Simpson" tvg-logo="https://www.abc.es/media/capitulos/000/083/007/que-quieren-las-mujeres-de-dibujos-animados-1.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Los Simpson
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/eec07cc8-f22e-4c57-91f3-acba932e39c1.ts
+#EXTINF:-1 tvg-id="58b16461-2e28-407e-8f99-871bbb3bc00f" tvg-name="24/7 Super Campeones" tvg-logo="https://static.wikia.nocookie.net/wikiseriesjaponesas/images/6/6f/Dvd-los-supercampeones-serie-animada-super-campeones-oliver-17097-MLC20132238145_072014-F.jpg/revision/latest?cb=20160710181041&path-prefix=es" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Super Campeones
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/58b16461-2e28-407e-8f99-871bbb3bc00f.ts
+#EXTINF:-1 tvg-id="5844f6c4-4efb-4cbb-8bca-cadb5bdd9736" tvg-name="24/7 Dragon Ball" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Serie_de_TV-973171538-mmed.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Dragon Ball
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5844f6c4-4efb-4cbb-8bca-cadb5bdd9736.ts
+#EXTINF:-1 tvg-id="edc7b806-26d2-44fd-9202-e81cb14220d4" tvg-name="24/7 Birdman" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3f/Birdman.jpg/revision/latest/top-crop/width/360/height/450?cb=20100924021644&path-prefix=es" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Birdman
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/edc7b806-26d2-44fd-9202-e81cb14220d4.ts
+#EXTINF:-1 tvg-id="507213f6-1fcc-4d57-9e8c-3255c2fb807f" tvg-name="24/7 Candy Candy" tvg-logo="https://www.prensalibre.com/wp-content/uploads/2018/12/edf2230e-1730-4cae-8f73-c1bca76c991c.jpg?quality=52" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Candy Candy
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/507213f6-1fcc-4d57-9e8c-3255c2fb807f.ts
 
+#EXTINF:-1 tvg-id="40e29c79-5c47-4bfb-9d00-9cc26a42d235" tvg-name="24/7 La pequeña Lulu" tvg-logo="https://www.themoviedb.org/t/p/w500/qvMb4xMSg01H9HSWdZDSeBSCosU.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 La pequeña Lulu
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/40e29c79-5c47-4bfb-9d00-9cc26a42d235.ts
+#EXTINF:-1 tvg-id="50753a48-cfd9-4f55-a9dc-236ca68115a2" tvg-name="24/7 Pájaro Loco" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTduNRgljyee4jDR55-pGuHYXKcCw4eLD_fFgmp=s900-c-k-c0x00ffffff-no-rj" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Pájaro Loco
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/50753a48-cfd9-4f55-a9dc-236ca68115a2.ts
+#EXTINF:-1 tvg-id="9ba9e1dc-da79-4282-92fa-9b2ba62394f0" tvg-name="24/7 Ositos Cariñositos" tvg-logo="https://i.pinimg.com/236x/5c/c8/1d/5cc81d1419945943c790f55b40a4fce3.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Ositos Cariñositos
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9ba9e1dc-da79-4282-92fa-9b2ba62394f0.ts
+#EXTINF:-1 tvg-id="f97a2380-cde0-499a-902c-83bd70c91e12" tvg-name="24/7 El Show de Bugs Bunny" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/1200px-Bugs_Bunny.svg.png" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 El Show de Bugs Bunny
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f97a2380-cde0-499a-902c-83bd70c91e12.ts
+#EXTINF:-1 tvg-id="b0764d6d-33c9-4e9d-81dd-b776864d0c9d" tvg-name="24/7 Un cachorro llamado Scooby Doo" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9b/APupNamedScoobyDoo.jpg/revision/latest?cb=20200802022933&path-prefix=es" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Un cachorro llamado Scooby Doo
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/b0764d6d-33c9-4e9d-81dd-b776864d0c9d.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las Chicas Superpoderosas" tvg-logo="https://bolavip.com/__export/1630010783880/sites/bolavip/img/2021/08/26/las_chicas_superpoderosas_sexorita_bellum_1_crop1630010614848.jpg_1159711837.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Las Chicas Superpoderosas
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5b6de700-bc39-41bf-b181-90b689de6498.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las Tortugas Ninjas" tvg-logo="https://t2.uc.ltmcdn.com/es/posts/3/1/2/como_se_llaman_las_tortugas_ninja_23213_600.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Las Tortugas Ninjas
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/97685cc3-b7cc-4957-be7d-03f871effbb7.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los pitufos" tvg-logo="https://i.pinimg.com/550x/d5/4e/61/d54e61233c804b66da89f9f06a9caae9.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Los pitufos
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1ba66e51-260c-4c9d-9709-04c026e0e58e.ts
+#EXTINF:-1 tvg-id="c09703d8-570c-4b82-8a63-987833795323" tvg-name="24/7 Los padrinos mágicos" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/68/Padrinos_m%C3%A1gicos.jpg/revision/latest?cb=20200906215022&path-prefix=es" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Los padrinos mágicos
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/c09703d8-570c-4b82-8a63-987833795323.ts
+#EXTINF:-1 tvg-id="f4580a41-7196-4415-a388-227ab3f92ace" tvg-name="24/7 Jimmy Neutrón" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/f/f2/JimmyNeutron.png/revision/latest?cb=20150321002039&path-prefix=es" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Jimmy Neutrón
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f4580a41-7196-4415-a388-227ab3f92ace.ts
+#EXTINF:-1 tvg-id="7178a093-4af6-417d-b8ce-a956a65c7ab0" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://img1.ak.crunchyroll.com/i/spire2/ab001b1cb053ec0d7b1b47b0f7bf98e71647329181_full.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Dragon Ball Z
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7178a093-4af6-417d-b8ce-a956a65c7ab0.ts
+
+#EXTINF:-1 tvg-id="8e785b1e-d456-4bcc-9ac7-a42287c9f10f" tvg-name="24/7 Los Simpson" tvg-logo="https://pics.filmaffinity.com/Los_Simpson_Serie_de_TV-397676780-large.jpg" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Los Simpson
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/8e785b1e-d456-4bcc-9ac7-a42287c9f10f.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA 1999" tvg-logo="http://vodtvpremium.ddns.net:8080/images/72f0b5748bb10c5708ff96e08bbab550.png" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 FUTURAMA 1999
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/2f4015d6-9983-4551-a291-a6fef7972f40.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA" tvg-logo="" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 FUTURAMA
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/df4dfebb-e7a6-48f6-babb-e8065dc90288.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure" tvg-logo="https://mundodigitaltoday.files.wordpress.com/2020/05/2005-01-digimon-adventure-2020-espac3b1ol.jpg?w=729" group-title="24/7 - DIBUJOS ANIMADOS-N",24/7 Digimon Adventure
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e73de5f8-8365-4ad6-bad7-aeee2452af03.ts
+#EXTINF:-1 tvg-id="cf81bad2-87ac-408b-96e8-3de6e4ff4cde" tvg-name="24/7 Aquellos maravillosos años" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB4bE96wdYGcV15QTYQalshEip7Wsi8nJV4ajRDkvbM4qV3875" group-title="24/7 - SERIES Y REALITY-N",24/7 Aquellos maravillosos años
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/cf81bad2-87ac-408b-96e8-3de6e4ff4cde.ts
+#EXTINF:-1 tvg-id="d71ec0bf-e870-4f26-a63f-20a6fb6f19ac" tvg-name="24/7 Chespirito" tvg-logo="https://pbs.twimg.com/media/FJZzL7wXwAEj1cj?format=jpg&name=large" group-title="24/7 - SERIES Y REALITY-N",24/7 Chespirito
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d71ec0bf-e870-4f26-a63f-20a6fb6f19ac.ts
+
+#EXTINF:-1 tvg-id="01e01f36-3107-4dae-abad-245a7c9e3344" tvg-name="24/7 Malcolm" tvg-logo="https://flxt.tmsimg.com/assets/p7896127_b_v8_aa.jpg" group-title="24/7 - SERIES Y REALITY-N",24/7 Malcolm
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/01e01f36-3107-4dae-abad-245a7c9e3344.ts
+
+#EXTINF:-1 tvg-id="ecf63b33-5618-4150-a2c3-156f3836769a" tvg-name="24/7 Anatomía de Grey" tvg-logo="https://mx.web.img3.acsta.net/pictures/21/09/14/20/10/1210231.jpg" group-title="24/7 - SERIES Y REALITY-N",24/7 Anatomía de Grey
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ecf63b33-5618-4150-a2c3-156f3836769a.ts
+#EXTINF:-1 tvg-id="7a2931eb-450e-400d-94e4-fefe79bf4379" tvg-name="24/7 Dos hombres y medio" tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/17/14/20/340032.jpg" group-title="24/7 - SERIES Y REALITY-N",24/7 Dos hombres y medio
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7a2931eb-450e-400d-94e4-fefe79bf4379.ts
+#EXTINF:-1 tvg-id="77c83114-b58b-4fcd-bb18-b7876019afa9" tvg-name="24/7 CSI: Las Vegas" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fcapitulos%2F000%2F009%2F618%2Fjugar-con-fuego-1.jpg&nuevoancho=690&medio=abc" group-title="24/7 - SERIES Y REALITY-N",24/7 CSI: Las Vegas
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/77c83114-b58b-4fcd-bb18-b7876019afa9.ts
