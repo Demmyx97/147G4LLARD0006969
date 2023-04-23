@@ -1,5 +1,239 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="SPOARHD" tvg-name="DIRECTV SPORTS AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS AR(E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e0072358-2a54-40d8-bdbd-2fe4361958b5.ts
+#EXTINF:-1 tvg-id="SPO2HD" tvg-name="DIRECTV SPORTS 2 AR (E)" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS 2 AR (E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/57d39787-4b00-4cb3-b863-0deaa7b8ea0a.ts
+#EXTINF:-1 tvg-id="SPOPRSD" tvg-name="DIRECTV SPORTS CH (E)" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS CH (E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/3cf6c83d-bda3-4bf5-93c6-9298b6050d0c.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS EC (E)" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS EC (E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d06525ae-4094-484b-884b-9cbe148bf960.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS EC (E)" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS PLUS EC (E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/b01214bc-08da-4bd1-b1aa-e5af653f4685.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS CO (E)" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS CO (E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/85a985fa-d63f-4bf4-96d6-5aac7b8ab4a6.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 CO (E)" tvg-logo="https://1.bp.blogspot.com/-01KlDKxKIUw/YJg4FfcFg1I/AAAAAAAAFiE/sDjy6gQBuywYBYjC-9sung9lziT0xAB8QCLcBGAsYHQ/s1920/directv%2Bsports%2B2%252C%2Bdirectv%2Bsports%2B1%252C%2Bdirectv%2Bsports%252B%2Bargentina%252C%2Bver%2Btv%2Bargentina%2Ben%2Bvivo%2Bonline.jpg" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS 2 CO (E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e6913ad7-0369-46b8-9c7f-6c314bfd374b.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS URU (E)" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS URU (E)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ddcd283b-7b04-431a-93d3-b87a51a18e3a.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV Sports Per" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMyX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png?timestamp=1645563232244" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV Sports Per
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/05f81ec0-cdfc-4431-957e-95f9d2713712.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV eventos 1*" tvg-logo="https://lh3.googleusercontent.com/-o5sVEsBwvlw/YeGDCkkVGdI/AAAAAAAABO4/kd0nFGck6Cc8fvgwlktNeEeJH7IfYULxACNcBGAsYHQ/s16000/image.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV eventos 1*
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/fffb31fc-4e03-4e34-a60e-cca8b61a046d.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV eventos 2*" tvg-logo="https://lh3.googleusercontent.com/-o5sVEsBwvlw/YeGDCkkVGdI/AAAAAAAABO4/kd0nFGck6Cc8fvgwlktNeEeJH7IfYULxACNcBGAsYHQ/s16000/image.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV eventos 2*
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/da5f5121-b277-4be1-b272-442e0e7ebf38.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV eventos 3*" tvg-logo="https://lh3.googleusercontent.com/-o5sVEsBwvlw/YeGDCkkVGdI/AAAAAAAABO4/kd0nFGck6Cc8fvgwlktNeEeJH7IfYULxACNcBGAsYHQ/s16000/image.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV eventos 3*
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/6bf723c7-f522-4f32-b458-3d46c0680b64.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV eventos 4*" tvg-logo="https://lh3.googleusercontent.com/-o5sVEsBwvlw/YeGDCkkVGdI/AAAAAAAABO4/kd0nFGck6Cc8fvgwlktNeEeJH7IfYULxACNcBGAsYHQ/s16000/image.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV eventos 4*
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/6ef1be85-d91d-4660-ae86-826961669c08.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV eventos 5*" tvg-logo="https://lh3.googleusercontent.com/-o5sVEsBwvlw/YeGDCkkVGdI/AAAAAAAABO4/kd0nFGck6Cc8fvgwlktNeEeJH7IfYULxACNcBGAsYHQ/s16000/image.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV eventos 5*
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/3b3c7be6-1c22-4957-ae99-230077657e5e.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV eventos 6*" tvg-logo="https://lh3.googleusercontent.com/-o5sVEsBwvlw/YeGDCkkVGdI/AAAAAAAABO4/kd0nFGck6Cc8fvgwlktNeEeJH7IfYULxACNcBGAsYHQ/s16000/image.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV eventos 6*
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/bb376211-218a-4e60-9e48-8f5ff6ba8829.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV MULTI P*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlyKsyFTYqj3usVUtKhz8RaZTwQiWS4Rbp8zLiN6M11oyxKpAiD3msIHpSrNfBoR24BxU&usqp=CAU" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV MULTI P*
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/fde5b0ea-a806-4724-b4be-511e62454fb1.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV GO MULTI 2*" tvg-logo="https://play-lh.googleusercontent.com/MWeN5W9u11IIXa8jSK25w5tyXb39PM9nWsOhXtAMxqVZwmPZqKU1ZUzsmdvEaloDl9k" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV GO MULTI 2*
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/dc3c2588-1493-4542-9734-3e163b659a53.ts
+#EXTINF:-1 tvg-id="" tvg-name="D NEWS*" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8eNKGRRFYnR6HdfSJLRiLJ2cKyH2DBpgNgXwKN7NHBGNbWJhnjHEBLgmm9nzPHZqJQ6lvPmEdKg_LeiEwg8pu0fTKO55cm1HCs44Ly3_7H1FpAX-Wc2H56YW3X9WZH-RO5-GIdShec2U0qie-GN5kkQt8emQB_QwEdNAMEMGCD6WUt_YXQ1Sv7-x5mQ/s1920/directvnewstvlaint.jpg" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",D NEWS*
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/27c80666-e67c-4166-a761-e3b1682d1a91.ts
+
+#EXTINF:-1 tvg-id="CLAHDA" tvg-name="CLARO SPORTS COLOMBIA FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s72291_h3_aa.png" group-title="DEPORTES PREMIUM",CLARO SPORTS COLOMBIA FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/56f930e8-3730-4f57-974c-b2315f897724.ts
+#EXTINF:-1 tvg-id="CLARDIH" tvg-name="CLARO SPORTS LATINO SD" tvg-logo="http://fanc.tmsimg.com/assets/s72291_h3_aa.png" group-title="DEPORTES PREMIUM",CLARO SPORTS LATINO SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ca0778a6-0fff-4da6-bbc9-30100c8bdfef.ts
+#EXTINF:-1 tvg-id="CLAHDA" tvg-name="CLARO SPORTS LATINO HD" tvg-logo="http://fanc.tmsimg.com/assets/s72291_h3_aa.png" group-title="DEPORTES PREMIUM",CLARO SPORTS LATINO HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e32f9efd-e39d-49f4-919e-30892711adcf.ts
+#EXTINF:-1 tvg-id="CLARDIH" tvg-name="CLARO SPORTS LATINO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s72291_h3_aa.png" group-title="DEPORTES PREMIUM",CLARO SPORTS LATINO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f736f2ac-ce11-4a44-9a2a-3ec23754fe0c.ts
+#EXTINF:-1 tvg-id="CLAHDA" tvg-name="CLARO SPORTS LATINO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s72291_h3_aa.png" group-title="DEPORTES PREMIUM",CLARO SPORTS LATINO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/b66a2e50-b378-44d0-acc3-28233fa3f1fd.ts
+#EXTINF:-1 tvg-id="CLAHDA" tvg-name="CLARO SPORTS MEXICO HD" tvg-logo="http://fanc.tmsimg.com/assets/s72291_h3_aa.png" group-title="DEPORTES PREMIUM",CLARO SPORTS MEXICO HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/463d709f-9262-46ce-8c1f-daaac7069412.ts
+#EXTINF:-1 tvg-id="SPOARHD" tvg-name="DIRECTV SPORTS ARGENTINA HD" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PREMIUM",DIRECTV SPORTS ARGENTINA HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9e8f3cd7-632a-4162-a7c0-826db8a0e260.ts
+#EXTINF:-1 tvg-id="SPOARHD" tvg-name="DIRECTV SPORTS ARGENTINA HD" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PREMIUM",DIRECTV SPORTS ARGENTINA HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d8002b94-3e49-4460-9a60-38f80c3ca75b.ts
+#EXTINF:-1 tvg-id="SPOCOHD" tvg-name="DIRECTV SPORTS COLOMBIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s109752_h3_aa.png" group-title="DEPORTES PREMIUM",DIRECTV SPORTS COLOMBIA HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/0a0afa99-1030-4741-b567-ec598dbe685f.ts
+#EXTINF:-1 tvg-id="SPOARHD" tvg-name="DIRECTV SPORTS + ARGENTINA HD" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DEPORTES PREMIUM",DIRECTV SPORTS + ARGENTINA HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ddc6c85d-361a-42c9-a903-6bd78463a5eb.ts
+#EXTINF:-1 tvg-id="SPOCOHD" tvg-name="DIRECTV SPORTS + COLOMBIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s109752_h3_aa.png" group-title="DEPORTES PREMIUM",DIRECTV SPORTS + COLOMBIA HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/0940a128-555c-41b1-84c7-ea12b72f9e1a.ts
+#EXTINF:-1 tvg-id="FS1SPHD" tvg-name="FOX SPORTS 1 SUR HD" tvg-logo="http://fanc.tmsimg.com/assets/s82541_ll_h3_ab.png" group-title="DEPORTES PREMIUM",FOX SPORTS 1 SUR HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1438ffc3-ba5f-4b1d-86f7-3ad04372d8f6.ts
+#EXTINF:-1 tvg-id="FS1SP" tvg-name="FOX SPORTS 1 SUR FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s82541_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 1 SUR FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/3dcae0db-ec67-4ed5-b5a5-6c0abfb85b26.ts
+#EXTINF:-1 tvg-id="FS1SPHD" tvg-name="FOX SPORTS 1 MEXICO HD" tvg-logo="http://fanc.tmsimg.com/assets/s82541_ll_h3_ab.png" group-title="DEPORTES PREMIUM",FOX SPORTS 1 MEXICO HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9a0f5acf-9fd3-4948-a99f-9c28e0ac09b0.ts
+#EXTINF:-1 tvg-id="FS1SP" tvg-name="FOX SPORTS 1 MEXICO HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s82541_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 1 MEXICO HD (D)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1cf929ff-6287-43f6-9472-5c82ec1ff8c2.ts
+#EXTINF:-1 tvg-id="FS1SP" tvg-name="FOX SPORTS 1 MEXICO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s82541_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 1 MEXICO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/dca58099-9b3f-4678-a76b-38798380fc58.ts
+#EXTINF:-1 tvg-id="FS1SPHD" tvg-name="FOX SPORTS 1 ARGENTINA FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s82541_ll_h3_ab.png" group-title="DEPORTES PREMIUM",FOX SPORTS 1 ARGENTINA FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1ff89cb5-3173-4c15-b1b0-9ba4da24c213.ts
+#EXTINF:-1 tvg-id="FOXSCHD" tvg-name="FOX SPORTS 1 CHILE HD" tvg-logo="http://fanc.tmsimg.com/assets/s42180_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 1 CHILE HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/486e507e-533a-4205-9a36-6ec308b6e7ea.ts
+#EXTINF:-1 tvg-id="FOXSCHD" tvg-name="FOX SPORTS 1 CHILE HD" tvg-logo="http://fanc.tmsimg.com/assets/s42180_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 1 CHILE HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e250f32e-63e4-4108-b714-1d38b236c3f4.ts
+#EXTINF:-1 tvg-id="FOXS2AV" tvg-name="FOX SPORTS 2 SUR SD" tvg-logo="http://fanc.tmsimg.com/assets/s73935_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 SUR SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/82fe7a86-f6a9-4e99-ae73-4d319901b9c7.ts
+#EXTINF:-1 tvg-id="FOXS2HA" tvg-name="FOX SPORTS 2 SUR HD" tvg-logo="http://fanc.tmsimg.com/assets/s73935_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 SUR HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ddec4286-3c47-4381-a74e-f7777ee784dc.ts
+#EXTINF:-1 tvg-id="FS2CHA3" tvg-name="FOX SPORTS 2 SUR FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s73935_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 SUR FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/fcfff62d-6b64-4886-88bf-9b8b3d9c2818.ts
+#EXTINF:-1 tvg-id="FOXS2SA" tvg-name="FOX SPORTS 2 MEXICO HD" tvg-logo="http://fanc.tmsimg.com/assets/s73935_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 MEXICO HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/819d9e49-390f-4f38-b2aa-d993920213bd.ts
+#EXTINF:-1 tvg-id="FOXS2HA" tvg-name="FOX SPORTS 2 MEXICO HD" tvg-logo="http://fanc.tmsimg.com/assets/s73935_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 MEXICO HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/2e05858b-19fc-409f-8e08-f4ffbed6539a.ts
+#EXTINF:-1 tvg-id="FOXS2DT" tvg-name="FOX SPORTS 2 ARG HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s73935_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 ARG HD (D)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5b7d0d4e-b333-4b45-8759-8137921ec3ad.ts
+#EXTINF:-1 tvg-id="FS2AR" tvg-name="FOX SPORTS 2 ARGENTINA HD" tvg-logo="http://fanc.tmsimg.com/assets/s73935_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 ARGENTINA HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/162143e2-4a7f-4c9b-9a04-febafaa24dc3.ts
+#EXTINF:-1 tvg-id="FSCHIH" tvg-name="FOX SPORTS 2 CHILE HD" tvg-logo="http://fanc.tmsimg.com/assets/s61704_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 CHILE HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/aa04ce50-4e3b-4f34-b870-2c18a244873c.ts
+#EXTINF:-1 tvg-id="FSCHIH" tvg-name="FOX SPORTS 2 CHILE FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s61704_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 2 CHILE FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/54764f8e-8a7f-448d-8eba-9eecfe7bb130.ts
+#EXTINF:-1 tvg-id="FOXS3A" tvg-name="FOX SPORTS 3 SUR SD" tvg-logo="http://fanc.tmsimg.com/assets/s47374_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 3 SUR SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/8ced9b6a-0b8f-4d43-a421-5fb7f8711b8d.ts
+#EXTINF:-1 tvg-id="FOXS3AM" tvg-name="FOX SPORTS 3 SUR HD" tvg-logo="http://fanc.tmsimg.com/assets/s47374_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 3 SUR HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/faa79db4-dde0-4e21-b901-ab411e95f196.ts
+#EXTINF:-1 tvg-id="FOXS3A" tvg-name="FOX SPORTS 3 AR HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s47374_ll_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 3 AR HD (D)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/0775a3c0-84d2-49fa-a069-710769f76c7f.ts
+#EXTINF:-1 tvg-id="FOXS3AM" tvg-name="FOX SPORTS 3 MEXICO SD" tvg-logo="http://fanc.tmsimg.com/assets/s47374_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 3 MEXICO SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/797e0964-110c-4e90-a930-4b7dd6ef7bf3.ts
+#EXTINF:-1 tvg-id="FOXS3AM" tvg-name="FOX SPORTS 3 MEXICO HD" tvg-logo="http://fanc.tmsimg.com/assets/s47374_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 3 MEXICO HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/98aacbae-4ce5-46c2-ae81-66c75ca317d9.ts
+#EXTINF:-1 tvg-id="FOXS3AM" tvg-name="FOX SPORTS 3 MEXICO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s47374_h3_aa.png" group-title="DEPORTES PREMIUM",FOX SPORTS 3 MEXICO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e3e15001-b9f2-45b2-9e80-d15be435eccc.ts
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ESPN PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="DEPORTES PREMIUM",ESPN PREMIUM SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/66d3d52f-c65e-4bb3-ab7e-2f72ec80dca3.ts
+#EXTINF:-1 tvg-id="FSPREMA" tvg-name="FOX SPORTS PREMIUM MEXICO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s106781_ll_h3_ab.png" group-title="DEPORTES PREMIUM",FOX SPORTS PREMIUM MEXICO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/da16baa4-87f8-4bb2-9178-b60e69aa512b.ts
+#EXTINF:-1 tvg-id="CXESPN" tvg-name="ESPN 1 SUR" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 1 SUR
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9fa49419-6b53-484f-8334-1b28d050144d.ts
+#EXTINF:-1 tvg-id="EPN2HAA" tvg-name="ESPN 1 SUR HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 1 SUR HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/25ff8d97-e7d4-4188-9a1d-500657268fac.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 1 SUR FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/3f2c83d8-ff6d-4872-98d6-657f4ea7f4ed.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 1 MEXICO HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 1 MEXICO HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5ac384fe-79e2-4e79-b2f0-2280d647421b.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 1 MEXICO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 1 MEXICO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d75f5a68-a7f9-4e48-bcf8-f97be3dc2784.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 1 ARGENTINA HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 1 ARGENTINA HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/88c9ea67-5c43-415f-9f73-f0b462c1a66a.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 1 ARGENTINA FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 1 ARGENTINA FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e2947b06-01a9-4081-9d94-724758856aa6.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 1 CHILE HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 1 CHILE HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/914c8b11-9764-4995-9be5-0b704e65f57e.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 1 CHILE SD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 1 CHILE SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/8641e584-9007-4235-be47-31cc787b4783.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 2 SUR SD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 2 SUR SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/cdd6686b-b2ae-4586-85b3-7568e685cd6b.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 2 SUR HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 2 SUR HD (D)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/02c5bbb8-db75-44fc-9e26-c09a9010f9d9.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 2 SUR FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 2 SUR FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/61fb76e0-5a72-4dc6-84cf-e4bda8aa14e7.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 2 MEXICO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 2 MEXICO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e1c38203-9c01-4ab5-b6e1-38a60199e910.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 2 MEXICO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 2 MEXICO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/5bde4276-7cbe-48dc-ac48-7c9216c312ea.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 2 MEXICO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 2 MEXICO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/8d57a814-87fa-426e-aabf-d4c6e5273625.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 3 CH HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 3 CH HD (D)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ca06881b-f8ab-4468-a74a-29165c114481.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 3 MEXICO SD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 3 MEXICO SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1c4565c6-ceb2-419b-8785-c83867b57ab8.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 3" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 3
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7cf6a88b-da8b-4b1d-b7b0-11f3937f285d.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 3 MEXICO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 3 MEXICO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/a94b1c3a-88c2-46bf-9bf3-522adcce786a.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN 3 ARGENTINA HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 3 ARGENTINA HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/a4a628c3-e3c6-48d1-9378-21a36dffadd8.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN + ARG HD (D)" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN + ARG HD (D)
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/327565a6-4c5a-4de2-9209-346b4a09b144.ts
+#EXTINF:-1 tvg-id="ESPNLAA" tvg-name="ESPN + SUR HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN + SUR HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/431bc60a-d1d1-47ef-921e-b3255f5375a4.ts
+#EXTINF:-1 tvg-id="ESPNLAA" tvg-name="ESPN + SUR FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN + SUR FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/81aacf4c-c9fc-4812-a5d6-f993007cafa4.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN + MEXICO SD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN + MEXICO SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/812dab92-e35a-4948-9151-0aa8d0ee5acb.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN + MEXICO HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN + MEXICO HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/24e71e1f-039b-469e-84a2-2761338eb45c.ts
+#EXTINF:-1 tvg-id="ESPNLH2" tvg-name="ESPN + MEXICO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN + MEXICO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/0047b78e-86ae-4c9e-ab85-1b58a431a3f4.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-name="GOL TV FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="DEPORTES PREMIUM",GOL TV FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/40bae9b4-57d4-4efc-9071-6042dc3b129d.ts
+#EXTINF:-1 tvg-id="ADRESN" tvg-name="ESPN 4 HD" tvg-logo="https://i.ibb.co/ykwMLbB/ESPN-4.jpg" group-title="DEPORTES PREMIUM",ESPN 4 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/926803c2-79e0-4d52-8b25-3a48f73217dd.ts
+#EXTINF:-1 tvg-id="ADRESN" tvg-name="ADRENALINA SPORTS NETWORK FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s83162_ll_h3_ad.png" group-title="DEPORTES PREMIUM",ADRENALINA SPORTS NETWORK FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/6e24f2b0-76b7-47d7-b9e4-cd4e0ca966fc.ts
+#EXTINF:-1 tvg-id="GOLFLAH" tvg-name="GOLF CHANNEL LATINO FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s61033_ll_h3_ab.png" group-title="DEPORTES PREMIUM",GOLF CHANNEL LATINO FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/bd148d54-d0a9-4a5c-974a-7b975f86aeac.ts
+#EXTINF:-1 tvg-id="TUDNM" tvg-name="TUDN MEXICO SD" tvg-logo="http://fanc.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="DEPORTES PREMIUM",TUDN MEXICO SD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/c265fb37-3988-474c-b331-37d16ee70be2.ts
+#EXTINF:-1 tvg-id="TUDNM" tvg-name="TUDN MEXICO" tvg-logo="http://fanc.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="DEPORTES PREMIUM",TUDN MEXICO
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/4f777836-6487-4b86-9d3f-561adc694090.ts
+#EXTINF:-1 tvg-id="TUDNM" tvg-name="TUDN ESTADOS UNIDOS FULL HD" tvg-logo="http://fanc.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="DEPORTES PREMIUM",TUDN ESTADOS UNIDOS FULL HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/225f7220-35cc-46d5-ba79-90ae5aeb377a.ts
+#EXTINF:-1 tvg-id="TUDNM" tvg-name="TUDN ESTADOS UNIDOS HD" tvg-logo="http://fanc.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="DEPORTES PREMIUM",TUDN ESTADOS UNIDOS HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/42e0a816-5c9d-4ab9-b8c5-9d032363e29b.ts
+#EXTINF:-1 tvg-id="TUDNX1" tvg-name="TUDN X1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s112349_ll_h3_ac.png" group-title="DEPORTES PREMIUM",TUDN X1 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/95b85a49-e225-4532-af60-d590c0342fe9.ts
+#EXTINF:-1 tvg-id="TUDNX2" tvg-name="TUDN X2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s112351_ll_h3_ac.png" group-title="DEPORTES PREMIUM",TUDN X2 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ceb09824-ed18-431c-94c1-40810be881a4.ts
+#EXTINF:-1 tvg-id="TUDNX4" tvg-name="TUDN X3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s112354_ll_h3_ac.png" group-title="DEPORTES PREMIUM",TUDN X3 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/0d2d7eed-6743-4eca-b338-ad3b6f8291be.ts
+#EXTINF:-1 tvg-id="TUDNX3" tvg-name="TUDN X4 HD" tvg-logo="http://fanc.tmsimg.com/assets/s112352_ll_h3_ac.png" group-title="DEPORTES PREMIUM",TUDN X4 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/06fa66dd-f2c8-4563-8759-b095d6f88e8a.ts
+#EXTINF:-1 tvg-id="TUDNX5" tvg-name="TUDN X5 HD" tvg-logo="http://fanc.tmsimg.com/assets/s112355_ll_h3_ac.png" group-title="DEPORTES PREMIUM",TUDN X5 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9c66a101-bc49-4e16-ba00-758b6a5161f2.ts
+#EXTINF:-1 tvg-id="TUDNX6" tvg-name="TUDN X6 HD" tvg-logo="http://fanc.tmsimg.com/assets/s112356_ll_h3_ac.png" group-title="DEPORTES PREMIUM",TUDN X6 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7bc363b2-396d-43fa-9ddb-37cfdda055a9.ts
+#EXTINF:-1 tvg-id="TUDNX7" tvg-name="TUDN X7 HD" tvg-logo="http://fanc.tmsimg.com/assets/s112357_ll_h3_ac.png" group-title="DEPORTES PREMIUM",TUDN X7 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/09a5382c-a872-4fee-a344-ba6a62386aa5.ts
+#EXTINF:-1 tvg-id="TUDNX8" tvg-name="TUDN X8 HD" tvg-logo="http://fanc.tmsimg.com/assets/s112358_ll_h3_ac.png" group-title="DEPORTES PREMIUM",TUDN X8 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/b025ae0f-ed91-4c8d-b92d-61d49c639f4d.ts
+#EXTINF:-1 tvg-id="TUDNX9" tvg-name="TUDN X9 HD" tvg-logo="http://fanc.tmsimg.com/assets/s112361_ll_h3_ac.png" group-title="DEPORTES PREMIUM",TUDN X9 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/073ee54a-ff17-43e3-88b1-866fb243d9a8.ts
+#EXTINF:-1 tvg-id="TUDNUH" tvg-name="TUDN X10 HD" tvg-logo="http://fanc.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="DEPORTES PREMIUM",TUDN X10 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/52f7ce24-ecb7-42ce-abf3-1d926a3b41df.ts
+#EXTINF:-1 tvg-id="TUDNC" tvg-name="TUDN X11 HD" tvg-logo="http://fanc.tmsimg.com/assets/s89113_ll_h3_ac.png" group-title="DEPORTES PREMIUM",TUDN X11 HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/67ae379a-2df1-40d7-97c8-f64016507806.ts
+#EXTINF:-1 tvg-id="BEINSES" tvg-name="BEIN SPORTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s76943_ll_h3_ab.png" group-title="DEPORTES PREMIUM",BEIN SPORTS HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e0b8e92e-2993-44ae-952f-4399c92e1276.ts
+#EXTINF:-1 tvg-id="BEIN2HD" tvg-name="BEIN SPORTS Ñ HD" tvg-logo="http://fanc.tmsimg.com/assets/s76955_ll_h3_aa.png" group-title="DEPORTES PREMIUM",BEIN SPORTS Ñ HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/10d6f5be-0936-4b5e-a6ae-72cd9aa2ab1d.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV HD" tvg-logo="https://i.ibb.co/25X03YZ/descarga-17.png" group-title="DEPORTES PREMIUM",UFC TV HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f9be678f-9c3c-4716-a329-818d7c3fa5e0.ts
+#EXTINF:-1 tvg-id="FSPREM" tvg-name="ESPN PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="DEPORTES PREMIUM",ESPN PREMIUM FHD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/cd212bc0-ee71-4d34-a4be-a4297cdd8167.ts
+#EXTINF:-1 tvg-id="LALIGAM" tvg-name="SKY SPORTS 1 [MX]" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png" group-title="DEPORTES PREMIUM",SKY SPORTS 1 [MX]
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/2701c222-1a4c-4ddf-8b9b-141b7ddeed98.ts
+#EXTINF:-1 tvg-id="LALIGAM" tvg-name="SKY SPORTS LA LIGA | HD" tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2021/11/Sky-Sports-acquire-La-Liga-rights-for-Mexico-and-Central-America.jpg" group-title="DEPORTES PREMIUM",SKY SPORTS LA LIGA | HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/c29d1982-3cad-477b-8447-6f5cafc5ca4b.ts
+#EXTINF:-1 tvg-id="SSPOPLH" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://pbs.twimg.com/profile_images/1483397085340868608/Aor57UcR_400x400.jpg" group-title="DEPORTES PREMIUM",SKY SPORTS PREMIER LEAGUE
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/45fed77f-54a2-4a87-b7dd-f51133c96407.ts
+#EXTINF:-1 tvg-id="SSPOFBH" tvg-name="Sky Sports 16 HD - MX" tvg-logo="https://pbs.twimg.com/media/FATbTe-WYAo5liY.png" group-title="DEPORTES PREMIUM",Sky Sports 16 HD - MX
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/24b56a37-5dfc-46ef-ba99-ef1e1ce6cb11.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV INT HD" tvg-logo="https://pbs.twimg.com/media/DZVHp0eW4AALT3H.jpg" group-title="DEPORTES PREMIUM",GOL TV INT HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/0c667c3b-f811-45cb-8cc8-e82a97d60355.ts
+#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="TNT Sports SD - ARG." tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="DEPORTES PREMIUM",TNT Sports SD - ARG.
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/341e8f84-a5db-41e4-bd0b-ca6e35aaf0f0.ts
+#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="TNT Sports HD - ARG." tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="DEPORTES PREMIUM",TNT Sports HD - ARG.
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/b69803f3-e8d2-462d-9bc0-ede21c0992f4.ts
+#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="TNT Sports FHD - ARG." tvg-logo="http://fanc.tmsimg.com/assets/s106780_ll_h3_aa.png" group-title="DEPORTES PREMIUM",TNT Sports FHD - ARG.
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e7edde1c-ee1a-40fa-a352-86e400e4e3fe.ts
+#EXTINF:-1 tvg-id="BEIN2HD" tvg-name="BEIN SPORTS XTRA Ñ" tvg-logo="http://fanc.tmsimg.com/assets/s76955_ll_h3_aa.png" group-title="DEPORTES PREMIUM",BEIN SPORTS XTRA Ñ
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/ff7da356-147e-4a08-9d95-4178b675d124.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARGENTINA" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 2 ARGENTINA
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/f4cdf89d-85a1-47e6-bb99-674cb02e39a8.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 COLOMBIA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="DEPORTES PREMIUM",ESPN 2 COLOMBIA FHD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/b5039a33-d0a4-4b07-aa8e-fde592136f18.ts
+#EXTINF:-1 tvg-id="" tvg-name="Espn 1 CO HD" tvg-logo="http://vaktar.vip:8080/images/93433fefa85ef2a99bd19051597c7547.png" group-title="DEPORTES PREMIUM",Espn 1 CO HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/a9e92c4e-53ad-4e62-b4ad-0084395bfee7.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: AYM SPORTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s34863_ll_h3_ab.png" group-title="DEPORTES PREMIUM",MX: AYM SPORTS HD
+http://mael-tv.online:8880/live/Gallardo22/Gallardo44/40af4123-962c-4943-ae3c-93ea79395fb8.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE PREMIUM",A&E FHD
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/c39a3b1e-a9f3-4ed1-b29f-fdc2c400adf4.ts
 #EXTINF:-1 tvg-id="AEAHAM" tvg-name="A&E HD(E)" tvg-logo="http://fanc.tmsimg.com/assets/s10035_ll_h3_ab.png" group-title="CINE PREMIUM",A&E HD(E)
