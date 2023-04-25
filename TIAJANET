@@ -1,5 +1,82 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga HD." tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="FUTBOL ESPAÑA",DAZN LaLiga HD.
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155652.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="FUTBOL ESPAÑA",DAZN LaLiga FHD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155653.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="FUTBOL ESPAÑA",DAZN LaLiga 1 SD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155654.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="FUTBOL ESPAÑA",DAZN LaLiga 1 HD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155655.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" group-title="FUTBOL ESPAÑA",DAZN LaLiga 1 FHD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155656.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="FUTBOL ESPAÑA",DAZN LaLiga 2 HD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155658.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 2 HD." tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="FUTBOL ESPAÑA",DAZN LaLiga 2 HD.
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155659.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" group-title="FUTBOL ESPAÑA",DAZN LaLiga 2 FHD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155660.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="FUTBOL ESPAÑA",M. LaLiga
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155661.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="FUTBOL ESPAÑA",M. LaLiga HD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155662.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="FUTBOL ESPAÑA",M. LaLiga FHD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155663.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga FHD." tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="FUTBOL ESPAÑA",M. LaLiga FHD.
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155664.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="FUTBOL ESPAÑA",M. LaLiga 4K
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155665.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114665_ll_h3_aa.png" group-title="FUTBOL ESPAÑA",M. LaLiga 1 HD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155666.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="FUTBOL ESPAÑA",M. LaLiga 2
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155667.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="FUTBOL ESPAÑA",M. LaLiga 3
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155668.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="FUTBOL ESPAÑA",M. LaLiga 4
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155669.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG4.png" group-title="FUTBOL ESPAÑA",M. LaLiga 5
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155670.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG5.png" group-title="FUTBOL ESPAÑA",M. LaLiga 6
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155671.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG6.png" group-title="FUTBOL ESPAÑA",M. LaLiga 7
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155672.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155673.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones HD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155674.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones FHD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155675.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones FHD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155676.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 1 HD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155677.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 1 FHD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155678.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 2 HD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155679.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 2 FHD
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155680.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 3
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155681.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 4
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155682.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP4.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 5
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155683.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 6" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 6
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155684.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 7" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP6.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 7
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155685.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 8" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP7.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 8
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155686.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 9" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP8.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 9
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155687.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 10" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP9.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 10
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155688.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 11" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP10.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 11
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155689.ts
+#EXTINF:-1 tvg-id="" tvg-name="M. Liga de Campeones 12" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP11.png" group-title="FUTBOL ESPAÑA",M. Liga de Campeones 12
+http://mael-tv.online:8080/live/Gallardo22/Gallardo44/155690.ts
+
 #EXTINF:-1 tvg-id="SPOARHD" tvg-name="DIRECTV SPORTS AR(E)" tvg-logo="http://fanc.tmsimg.com/assets/s109752_ll_h3_aa.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS AR(E)
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e0072358-2a54-40d8-bdbd-2fe4361958b5.ts
 #EXTINF:-1 tvg-id="SPO2HD" tvg-name="DIRECTV SPORTS 2 AR (E)" tvg-logo="http://fanc.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS 2 AR (E)
