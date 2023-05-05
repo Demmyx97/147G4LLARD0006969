@@ -749,22 +749,19 @@ http://mael-tv.online:8880/live/Gallardo22/Gallardo44/2d7419cb-232c-4c0f-b32e-aa
 #EXTINF:-1 tvg-id="" tvg-name="GOL PERU HD DIRECTO extra" tvg-logo="" group-title="DEPORTES PERU",GOL PERU HD DIRECTO extra
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/cee47439-aa20-4820-8e52-658b14a660de.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="PE: LIGA 1 MAX" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",PE: LIGA 1 MAX
-http://mael-tv.online:8880/live/Gallardo22/Gallardo44/d3403bb2-f853-4e98-87bc-e7f9b901f735.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="PE: LIGA 1" tvg-logo="https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1813.png" group-title="DEPORTES PERU",PE: LIGA 1
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/75ff52a0-8970-480e-a6d5-8c9bafd40765.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 op2 (E)" tvg-logo="https://imgmedia.libero.pe/670x369/libero/original/2022/08/27/630a73fd0260905637334baa.webp" group-title="DEPORTES PERU",LIGA 1 op2 (E)
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/24f14174-baa3-4011-a7c1-2559a2b06235.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 opc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOiKghOyzXw4R_tMA11SmwVDseQhxWfh9aA&usqp=CAU" group-title="DEPORTES PERU",LIGA 1 opc3
-http://mael-tv.online:8880/live/Gallardo22/Gallardo44/e034ec1f-73c7-4c96-868d-6573a5ac49ab.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="LIGA MAX 1 opc2 (E)" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA MAX 1 opc2 (E)
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/9811e244-7044-4fc0-aa7f-7ac2f0af48e7.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX opc3" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA 1 MAX opc3
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/7e029f28-86b8-4ce8-9b68-d83dcff3f44d.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA 1 MAX opc4" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES PERU",LIGA 1 MAX opc4
-http://mael-tv.online:8880/live/Gallardo22/Gallardo44/bc104139-7999-43b4-b160-f42334846360.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PE HD" tvg-logo="http://dalepley.club:8080/images/ZCtyqWEU9008K1wyo3nGnXyeDu8418Co82RNGNcHRNKBPwKmPVzIUNgxOQx16s1m.png" group-title="DEPORTES PERU",ESPN PE HD
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/2fd8100b-008d-49b2-8f99-974bc7c647fe.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PE" tvg-logo="http://dalepley.club:8080/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgNzIWFCCFVVdnBF8VsID4DAEQA5NyqPDaGJSyegwmnXA.png" group-title="DEPORTES PERU",ESPN PE
@@ -843,8 +840,7 @@ http://mael-tv.online:8880/live/Gallardo22/Gallardo44/67931819-e76d-4316-b59b-70
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/1a132e04-fc6b-450d-a510-1e97e1080bb1.ts
 #EXTINF:-1 tvg-id="" tvg-name="Gol Perú HD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú HD DIRECTO
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/703aa8d9-7668-4861-bb65-e285cf8efe32.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gol Perú HD" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú HD
-http://mael-tv.online:8880/live/Gallardo22/Gallardo44/2457b631-a8f1-4404-be64-df36400ead10.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Gol Perú SD DIRECTO" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTES PERU",Gol Perú SD DIRECTO
 http://mael-tv.online:8880/live/Gallardo22/Gallardo44/977cba13-b849-40b9-a8ad-00088b397fbf.ts
 
