@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:0 logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/One_piece.png" group-title="ONE PIECE LAT", ONE PIECE LAT 0001
+#EXTINF:0 , ONE PIECE LAT 0001
 https://delivery-node-wbkfh31bomnlippf.voe-network.net/engine/hls2/01/08444/fpnpwikaah3q_n/master.m3u8?t=Cw_gf5w_-1CPRhCt2mmxc0XsTvrL5MtV1pwGrDc5XHs&s=1689627997&e=14400&f=42223342&node=delivery-node-wbkfh31bomnlippf.voe-network.net&i=179.6&sp=3500&asn=12252
